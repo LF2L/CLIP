@@ -1,0 +1,16 @@
+book_filename: "CLimate Labs Incubation Program"
+rmd_files:
+- index.Rmd
+- 00-Intro.Rmd
+- 01-Fundamentals.Rmd
+- 02-SI-PC.Rmd
+- 03-PE.Rmd
+- 04-PO-Outcomes.Rmd
+- 05-A-A.Rmd
+- 06-Pilot.Rmd
+- 07-Refs.Rmd
+output_dir: "docs"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Sprint "

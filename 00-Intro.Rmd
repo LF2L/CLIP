@@ -1,0 +1,5 @@
+# Introduction{-}
+
+# Purpose {-}
+
+This is the introduction to CLIP

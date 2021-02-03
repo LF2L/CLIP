@@ -1,0 +1,35 @@
+--- 
+title: "Climate Labs Incubation Program"
+author: Université de Lorraine^[https://erpi.univ-lorraine.fr/],  PUCPR^[https://erpi.univ-lorraine.fr/]
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Welcome to the. Let's create something Meaningful"
+---
+
+# Welcome to CLIP {-}
+
+
+```{r, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, include = TRUE)
+library(knitr)
+```
+
+Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+
+```{r CLIP,}
+knitr::include_graphics("Figures/CLIP-global-00.jpg")
+```
+
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
