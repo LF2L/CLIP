@@ -16,6 +16,8 @@ description: "Welcome to the. Let's create something Meaningful"
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, include = TRUE)
 library(knitr)
+#library(usethis)
+#use_git_config(user.name = "foblike", user.email = "ferney.osorio-bustamante@univ-lorraine.fr")
 ```
 
 Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
