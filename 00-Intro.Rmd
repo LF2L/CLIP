@@ -1,5 +1,10 @@
 # Introduction{-}
+# Prototyping your CLimatelab {-}
 
-# Purpose {-}
+## Colombia {-}
 
-This is the introduction to CLIP
+In this link will be able to prototype your website :
+
+- [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit) {-}
+
+
