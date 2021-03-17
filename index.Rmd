@@ -20,7 +20,8 @@ library(knitr)
 #use_git_config(user.name = "foblike", user.email = "ferney.osorio-bustamante@univ-lorraine.fr")
 ```
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
+Currently the Université de Lorraine and the Pontifícia Universidade Católica do Paraná are leading the design and implementation of the Climate Lab Incubation Program (CLIP). This program is intended to serve as a virtual place for sharing knowledge and experiences from the members of the Climate Lab consortium. CLIP will serve as guidance and inspiration in the path of implementing the network of Climate Labs in Latin-american universities. The objective of this incubation program is to enable the Climate Lab Team (CLT) to move forward in the design and implementation of their social innovation platform. Therefore, it is expected that all members of the CLT participate actively throughout the ensemble of the program.
+
 
 ```{r CLIP,}
 knitr::include_graphics("Figures/CLIP-global-00.jpg")
