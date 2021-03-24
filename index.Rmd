@@ -1,17 +1,16 @@
---- 
-title: "Climate Labs Incubation Program"
-author: Université de Lorraine^[https://erpi.univ-lorraine.fr/],  PUCPR^[https://erpi.univ-lorraine.fr/]
+---
+title: "Climate Labs Incubation Program 2021"
+author: Université de Lorraine^[https://erpi.univ-lorraine.fr/],  PUCPR^[https://www.pucpr.br/]
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
 biblio-style: apalike
 link-citations: yes
-description: "Welcome to the. Let's create something Meaningful"
+description: "This is the platform for the WP2.2 Incubation Program of the Climate Labs Project"
 ---
 
-# Welcome to CLIP {-}
-
+# Welcome to CLIP {.unnumbered}
 
 ```{r, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, include = TRUE)
@@ -20,15 +19,13 @@ library(knitr)
 #use_git_config(user.name = "foblike", user.email = "ferney.osorio-bustamante@univ-lorraine.fr")
 ```
 
-Currently the Université de Lorraine and the Pontifícia Universidade Católica do Paraná are leading the design and implementation of the Climate Lab Incubation Program (CLIP). This program is intended to serve as a virtual place for sharing knowledge and experiences from the members of the Climate Lab consortium. CLIP will serve as guidance and inspiration in the path of implementing the network of Climate Labs in Latin-american universities. The objective of this incubation program is to enable the Climate Lab Team (CLT) to move forward in the design and implementation of their social innovation platform. Therefore, it is expected that all members of the CLT participate actively throughout the ensemble of the program.
+The Université de Lorraine and the Pontifícia Universidade Católica do Paraná have led the design of the Climate Lab Incubation Program (CLIP). This program is intended to be a virtual space for sharing knowledge and experiences from the members of the Climate Lab consortium. The CLIP will serve as guidance and inspiration in the path of implementing the network of Climate Labs in Latin-american universities. The objective of this incubation program is to enable the Climate Lab Teams (CLT) to move forward in the design and implementation of their social innovation platform. Therefore, it is expected that all members of the CLT participate actively throughout the ensemble of the program.
 
+| **Welcome to the first version of CLIP and please enjoy the design of your Climate Lab.**
 
 ```{r CLIP,}
-knitr::include_graphics("Figures/CLIP-global-00.jpg")
+#knitr::include_graphics("Figures/CLIP-global-00.jpg")
 ```
-
-
-
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

@@ -1,10 +1,197 @@
-# Introduction{-}
-# Prototyping your CLimatelab {-}
+# Program Description {.unnumbered}
 
-## Colombia {-}
+## Methodology {.unnumbered}
+
+The CLIP has a duration of six months starting from April 9 until October 15. The incubation program is structured in six sprints in which participants are introduced to a set of conceptual material together with specific strategic workshops. Each sprint has specific goals that the CLT should fulfill in order to successfully complete the program. The results of each sprint are to be uploaded to the website assigned to each team. The website will serve as a prototype for the strategic design of the Climate Lab that the CLT can ultimately use to validate their proposals with other stakeholders, and as a dissemination tool for their local Climate Lab initiative.
+
+The incubation program is conceived as a collective pool of knowledge and therefore brings together various methods, practices and tools shared by consortium members and invited experts. All the different experiences are articulated under the innovation lab framework that has been developed by the ERPI of Université de Lorraine as part of its research strand in fostering collaborative innovation processes [@osorio2019]. Building on the context analysis and capability mapping started in WP2.1., this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.
+
+![](images/CLIP%20-%20Incubation%20Program%20-%20%5BUpdated%5D%20CLIP%20Timeline%202.png "CLIP General Structure")
+
+## Key Action Moments {.unnumbered}
+
+There are five key action moments throughout the CLIP:
+
+-   **Sprint opening** (1h30 per sprint)
+
+    -   Synchronous webinar via Zoom in which sprint goals and main activities are presented to CLT
+
+-   **Online material** (Between 1h and 1h30 of video content per sprint)
+
+    -   CLT can access the online material via the CLIP website. Content is composed by conceptual videos, case experiences and complimentary readings
+
+    -   Members of CLT should access this content prior conducting each workshop
+
+-   **Team workshops** (Between 1h30 and 2h per workshop)
+
+    -   Each sprint proposes to the CLT a strategic workshop that should be conducted as a team
+
+    -   Workshops templates are provided via the Mural platform
+
+-   **Tutorships** (1h per sprint)
+
+    -   Intermediary check-ins via Zoom are proposed to the CLT in the forms of Q&A sessions
+
+    -   This is the moment for CLT to exchange with their mentors and guest experts to share their experiences or ask questions regarding the ongoing sprint's goal.
+
+-   **Upload and share sprint results**
+
+    -   By the end of each sprint, the CLT should upload their workshop results to their Climate Lab website prototype
+
+    -   At the beginning of the next sprint, the CLT will briefly present to the consortium their results and learnings
+
+> **Participants from each CLT are expected to dedicate 2 hours minimum per week to the CLIP.**
+
+## Successful completion of the program {.unnumbered}
+
+To successfully complete the incubation program, the CLT need to: 
+
+1.  Conduct as a team each one of the workshops that will be assigned in each sprint. 
+
+2.  Upload the workshop results to a non-published website that will constitute the prototype for the strategic design of their ClimateLab.
+
+3.  Share progress at the beginning of each sprint.
+
+4.  Final presentation of the strategic design of the Climate Lab at the mid-project meeting.
+
+## Operation and online platforms {.unnumbered}
+
+-   All the incubation program content will be available through the **CLIP Website**: [\<https://lf2l.fr/CLIP/\>](https://lf2l.fr/CLIP/){.uri} 
+
+-   Webinars and video calls will be held through **Zoom**.
+
+-   Workshop templates will be available via **MURAL**.
+
+-   Website prototype templates will be provided via **Google Sites**.
+
+# Program Schedule {.unnumbered}
+
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Sprint**                                 | **Goal(s)**                                                                 | **Main Focus**                                                                                                  |
++:==========================================:+:===========================================================================:+:===============================================================================================================:+
+| Sprint 1                                   | \- Build the Climate Lab Manifesto                                          | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                               |
+|                                            |                                                                             |                                                                                                                 |
+| **Fundamentals & Principles**              |                                                                             | \                                                                                                               |
+|                                            |                                                                             |                                                                                                                 |
+| 3 weeks                                    |                                                                             | \- Teams focus on defining the CLT purpose                                                                      |
+|                                            |                                                                             |                                                                                                                 |
+| From 09/04/21 to 29/04/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Sprint 2                                   | \- Define the Climate Lab's vision and objectives                           | \- The importance of building a collective strategic intent                                                     |
+|                                            |                                                                             |                                                                                                                 |
+| **Strategic Intent & Process of Creation** | \                                                                           | \                                                                                                               |
+|                                            |                                                                             |                                                                                                                 |
+| 4 weeks                                    | \- Design of the social innovation model                                    | \- Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
+|                                            |                                                                             |                                                                                                                 |
+| From 30/04/21 to 27/05/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Sprint 3                                   | \- Translate the Climate Lab's vision into a technological resource roadmap | \- Management of technological resources                                                                        |
+|                                            |                                                                             |                                                                                                                 |
+| **Physical Embodiment**                    |                                                                             | \                                                                                                               |
+|                                            |                                                                             |                                                                                                                 |
+| 4 weeks                                    |                                                                             | \- Spaces to support social innovation                                                                          |
+|                                            |                                                                             |                                                                                                                 |
+| From 28/05/21 to 01/07/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Sprint 4                                   | \- Design the business model & local strategy of the Climate Lab            | \- The role of innovation of innovation lab in universities and climate change                                  |
+|                                            |                                                                             |                                                                                                                 |
+| **Process of Use & Outcomes**              |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| 6 weeks (including summer break)           |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| From 02/07/21 to 19/08/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Sprint 5                                   | \- Assess the Climate Lab performance                                       | \- Practices for a more creative, resilient and enduring operation                                              |
+|                                            |                                                                             |                                                                                                                 |
+| **Assessment & Adaptation**                |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| 4 weeks                                    |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| From 20/08/21 to 23/09/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| Sprint 6                                   | \- Set-up of the local ClimateLab pilot project                             | \- Moving from strategic to operational level: applying the living lab approach                                 |
+|                                            |                                                                             |                                                                                                                 |
+| **Pilot Project**                          |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| 3 weeks                                    |                                                                             |                                                                                                                 |
+|                                            |                                                                             |                                                                                                                 |
+| From 24/09/21 to 15/10/21                  |                                                                             |                                                                                                                 |
++--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+
+# CLIP Team {.unnumbered}
+
+## Work-Package Leaders {.unnumbered}
+
+-   **Université de Lorraine**
+
+    -   Mauricio Camargo
+
+    -   Fabio Cruz
+
+    -   Ferney Osorio
+
+-   **Pontifícia Universidade Católica do Paraná**
+
+    -   André Turbay
+
+    -   Harry Bollmann
+
+## Mentors {.unnumbered}
+
+-   **Universitat Politècnica de València & Universitat de València**
+
+    -   Carola Calabuig
+
+    -   Sergio Beida
+
+-   **Università di Genova**
+
+    -   Paola Alfaro
+
+    -   Ayla Schiappacasse
+
+-   **Ashoka**
+
+    -   Waldo Soto
+
+    -   Gabriela Carrasco
+
+## Tutorship Groups {.unnumbered}
+
++--------------------------------------------------------------+---------------------------------------------------------------+
+| **Groups of Universities**                                   | **Mentoring Team**                                            |
++==============================================================+===============================================================+
+| **Group 1**                                                  | **Fabio Cruz** - Université de Lorraine                       |
+|                                                              |                                                               |
+| -   Pontifícia Universidade Católica do Paraná               | Sergio Beida - Universitat de València                        |
+|                                                              |                                                               |
+| -   Universidad del Quindio                                  | Gabriela Carrasco - Ashoka                                    |
+|                                                              |                                                               |
+| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                               |
++--------------------------------------------------------------+---------------------------------------------------------------+
+| **Group 2**                                                  | **Ferney Osorio** - Université de Lorraine                    |
+|                                                              |                                                               |
+| -   Universidade Católica de Pernambuco                      | Carola Calabuig - Universitat Politècnica de València         |
+|                                                              |                                                               |
+| -   Universidad de Caldas                                    | Ayla Schiappacasse - Università di Genova                     |
+|                                                              |                                                               |
+| -   Universidad Tecnológica de Pereira                       |                                                               |
++--------------------------------------------------------------+---------------------------------------------------------------+
+| **Group 3**                                                  | **André Turbay** - Pontifícia Universidade Católica do Paraná |
+|                                                              |                                                               |
+| -   Pontifícia Universidade Católica do Rio Grande do Sul    | Paola Alfaro - Università di Genova                           |
+|                                                              |                                                               |
+| -   Corporación Universitaria Minuto de Dios                 | Waldo Soto - Ashoka                                           |
+|                                                              |                                                               |
+| -   Universidad de Manizales                                 |                                                               |
+|                                                              |                                                               |
+| -   Universidad de Guadalajara                               |                                                               |
++--------------------------------------------------------------+---------------------------------------------------------------+
+
+# Prototyping your Climate Lab {.unnumbered}
+
+## Colombia {.unnumbered}
 
 In this link will be able to prototype your website :
 
-- [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit) {-}
-
-
+-   [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit) {-}
