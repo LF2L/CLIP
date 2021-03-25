@@ -21,7 +21,11 @@ library(knitr)
 
 The Université de Lorraine and the Pontifícia Universidade Católica do Paraná have led the design of the Climate Lab Incubation Program (CLIP). This program is intended to be a virtual space for sharing knowledge and experiences from the members of the Climate Lab consortium. The CLIP will serve as guidance and inspiration in the path of implementing the network of Climate Labs in Latin-american universities. The objective of this incubation program is to enable the Climate Lab Teams (CLT) to move forward in the design and implementation of their social innovation platform. Therefore, it is expected that all members of the CLT participate actively throughout the ensemble of the program.
 
-| **Welcome to the first version of CLIP and please enjoy the design of your Climate Lab.**
+| **Welcome to the first version of CLIP and please enjoy the design of your Climate Lab**
+
+------------------------------------------------------------------------
+
+![](images/01-Banner-ClimateLab.png){width="798"}
 
 ```{r CLIP,}
 #knitr::include_graphics("Figures/CLIP-global-00.jpg")

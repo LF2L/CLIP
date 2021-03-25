@@ -2,11 +2,11 @@
 
 ## Methodology {.unnumbered}
 
-The CLIP has a duration of six months starting from April 9 until October 15. The incubation program is structured in six sprints in which participants are introduced to a set of conceptual material together with specific strategic workshops. Each sprint has specific goals that the CLT should fulfill in order to successfully complete the program. The results of each sprint are to be uploaded to the website assigned to each team. The website will serve as a prototype for the strategic design of the Climate Lab that the CLT can ultimately use to validate their proposals with other stakeholders, and as a dissemination tool for their local Climate Lab initiative.
+The CLIP has a duration of six months starting from **April 9 until October 15**. The incubation program is structured in six sprints in which participants are introduced to a set of conceptual material together with specific strategic workshops. Each sprint has specific goals that the CLT should fulfill in order to successfully complete the program. The results of each sprint are to be uploaded to the website assigned to each team. The website will serve as a prototype for the strategic design of the Climate Lab that the CLT can ultimately use to validate their proposals with other stakeholders, and as a dissemination tool for their local Climate Lab initiative.
 
 The incubation program is conceived as a collective pool of knowledge and therefore brings together various methods, practices and tools shared by consortium members and invited experts. All the different experiences are articulated under the innovation lab framework that has been developed by the ERPI of Université de Lorraine as part of its research strand in fostering collaborative innovation processes [@osorio2019]. Building on the context analysis and capability mapping started in WP2.1., this incubation program proposes to the CLT to proactively and collectively strategize in terms of the main innovation lab components as shown in the figure below.
 
-![](images/CLIP%20-%20Incubation%20Program%20-%20%5BUpdated%5D%20CLIP%20Timeline%202.png "CLIP General Structure")
+![](images/02-Structure-CLIP.png)
 
 ## Key Action Moments {.unnumbered}
 
@@ -68,7 +68,7 @@ To successfully complete the incubation program, the CLT need to: 
 
 +--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 | **Sprint**                                 | **Goal(s)**                                                                 | **Main Focus**                                                                                                  |
-+:==========================================:+:===========================================================================:+:===============================================================================================================:+
++:===========================================+:============================================================================+:================================================================================================================+
 | Sprint 1                                   | \- Build the Climate Lab Manifesto                                          | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                               |
 |                                            |                                                                             |                                                                                                                 |
 | **Fundamentals & Principles**              |                                                                             | \                                                                                                               |
@@ -109,7 +109,7 @@ To successfully complete the incubation program, the CLT need to: 
 |                                            |                                                                             |                                                                                                                 |
 | From 20/08/21 to 23/09/21                  |                                                                             |                                                                                                                 |
 +--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 6                                   | \- Set-up of the local ClimateLab pilot project                             | \- Moving from strategic to operational level: applying the living lab approach                                 |
+| Sprint 6                                   | \- Set-up of the local Climate Lab pilot project                            | \- Moving from strategic to operational level: applying the living lab approach                                 |
 |                                            |                                                                             |                                                                                                                 |
 | **Pilot Project**                          |                                                                             |                                                                                                                 |
 |                                            |                                                                             |                                                                                                                 |
@@ -158,35 +158,35 @@ To successfully complete the incubation program, the CLT need to: 
 
 ## Tutorship Groups {.unnumbered}
 
-+--------------------------------------------------------------+---------------------------------------------------------------+
-| **Groups of Universities**                                   | **Mentoring Team**                                            |
-+==============================================================+===============================================================+
-| **Group 1**                                                  | **Fabio Cruz** - Université de Lorraine                       |
-|                                                              |                                                               |
-| -   Pontifícia Universidade Católica do Paraná               | Sergio Beida - Universitat de València                        |
-|                                                              |                                                               |
-| -   Universidad del Quindio                                  | Gabriela Carrasco - Ashoka                                    |
-|                                                              |                                                               |
-| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                               |
-+--------------------------------------------------------------+---------------------------------------------------------------+
-| **Group 2**                                                  | **Ferney Osorio** - Université de Lorraine                    |
-|                                                              |                                                               |
-| -   Universidade Católica de Pernambuco                      | Carola Calabuig - Universitat Politècnica de València         |
-|                                                              |                                                               |
-| -   Universidad de Caldas                                    | Ayla Schiappacasse - Università di Genova                     |
-|                                                              |                                                               |
-| -   Universidad Tecnológica de Pereira                       |                                                               |
-+--------------------------------------------------------------+---------------------------------------------------------------+
-| **Group 3**                                                  | **André Turbay** - Pontifícia Universidade Católica do Paraná |
-|                                                              |                                                               |
-| -   Pontifícia Universidade Católica do Rio Grande do Sul    | Paola Alfaro - Università di Genova                           |
-|                                                              |                                                               |
-| -   Corporación Universitaria Minuto de Dios                 | Waldo Soto - Ashoka                                           |
-|                                                              |                                                               |
-| -   Universidad de Manizales                                 |                                                               |
-|                                                              |                                                               |
-| -   Universidad de Guadalajara                               |                                                               |
-+--------------------------------------------------------------+---------------------------------------------------------------+
++--------------------------------------------------------------+--------------------------------------------------------+
+| **Groups of Universities**                                   | **Mentoring Team**                                     |
++==============================================================+========================================================+
+| **Group 1**                                                  | **Fabio Cruz**, Sergio Beida, Gabriela Carrasco        |
+|                                                              |                                                        |
+| -   Pontifícia Universidade Católica do Paraná               |                                                        |
+|                                                              |                                                        |
+| -   Universidad del Quindio                                  |                                                        |
+|                                                              |                                                        |
+| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                        |
++--------------------------------------------------------------+--------------------------------------------------------+
+| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Ayla Schiappacasse |
+|                                                              |                                                        |
+| -   Universidade Católica de Pernambuco                      |                                                        |
+|                                                              |                                                        |
+| -   Universidad de Caldas                                    |                                                        |
+|                                                              |                                                        |
+| -   Universidad Tecnológica de Pereira                       |                                                        |
++--------------------------------------------------------------+--------------------------------------------------------+
+| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto             |
+|                                                              |                                                        |
+| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                        |
+|                                                              |                                                        |
+| -   Corporación Universitaria Minuto de Dios                 |                                                        |
+|                                                              |                                                        |
+| -   Universidad de Manizales                                 |                                                        |
+|                                                              |                                                        |
+| -   Universidad de Guadalajara                               |                                                        |
++--------------------------------------------------------------+--------------------------------------------------------+
 
 # Prototyping your Climate Lab {.unnumbered}
 

@@ -4,9 +4,7 @@
 
 Welcome to the Fundamentals and prin
 
->the main goal is ...
-
-
+> the main goal is ...
 
 ## Innovation Spaces - Laure MOREL
 
@@ -15,7 +13,9 @@ knitr::include_url("https://drive.google.com/file/d/1TQtwPs7zR3-B1FZU65pzL8hvH3_
 ```
 
 
-
+```{r}
+knitr::include_url("https://youtu.be/18fC47uXhxo")
+```
 
 
 ## Presentation
@@ -27,4 +27,3 @@ Here the presentation
 TAsk to do at the en with your CLT
 
 ## References
-
