@@ -1,22 +1,18 @@
 # Fundamentals and Principles {#intro}
 
-## Intro
+## Sprint Opening
 
-Welcome to the Fundamentals and prin
+Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Climate Labs.
 
-> the main goal is ...
+> The main goal in this sprint is for each team to build their Climate Lab Manifesto
+
+First, three conceptual videos are proposed to open the discussion on the three thematic pillars that constitute the Climate Lab project: Climate Change, Social Innovation and Innovation Labs.
 
 ## Innovation Spaces - Laure MOREL
 
 ```{r}
-knitr::include_url("https://drive.google.com/file/d/1TQtwPs7zR3-B1FZU65pzL8hvH3_p8sK7/preview")
+knitr::include_url("https://www.youtube.com/embed/18fC47uXhxo")
 ```
-
-
-```{r}
-knitr::include_url("https://www.youtube.com/watch?v=18fC47uXhxo")
-```
-
 
 ## Presentation
 
