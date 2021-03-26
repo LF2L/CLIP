@@ -4,22 +4,70 @@
 
 Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Climate Labs.
 
-> The main goal in this sprint is for each team to build their Climate Lab Manifesto
+> The main goal in this sprint is to build your **Climate Lab Manifesto**
+>
+> *Sprint dates: **From April 9 to April 29***
 
-First, three conceptual videos are proposed to open the discussion on the three thematic pillars that constitute the Climate Lab project: Climate Change, Social Innovation and Innovation Labs.
+A webinar will be held on April 9 to officially launch the incubation program. It will be a synchronous session, so all CLT are expected to attend. In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
 
-## Innovation Spaces - Laure MOREL
+1.  Firstly, you will find **three conceptual videos** which are proposed to open the discussion on the three thematic pillars that constitute the Climate Lab project: Climate Change, Social Innovation and Innovation Labs.
+
+2.  Secondly, **two case experiences** from members of the consortium are shared. This way we can learn a little more about the experience of each of the CLT.
+
+3.  Next, you will find the link to the **team workshop** of this sprint. The workshop should be completed before the end of the sprint (**April 29**).
+
+4.  And finally, **complementary readings** are offered for those who would like to further explore the topics adressed in this sprint.
+
+------------------------------------------------------------------------
+
+## Conceptual Videos
+
+### Climate Change - PUCPR/Genova
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/18fC47uXhxo")
 ```
 
-## Presentation
+### What is Social Innovation? - Gabriela Carrasco
 
-Here the presentation
+```{r}
+knitr::include_url("https://www.youtube.com/embed/Tb3x7XeRyhI")
+```
 
-## Things to do
+Gabriela Carrasco from Ashoka and 2811 shares an introduction to social innovation and entrepreneurship.
+
+### Innovation Spaces - Laure Morel
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/18fC47uXhxo")
+```
+
+Professor Laure Morel from Université de Lorraine introduces the notion of innovation spaces and how these collaborative structures can play a major role in fostering social innovation for climate change. This presentation is based on her book chapter "Innovation spaces: new places for collective intelligence?" [@morel2018].
+
+------------------------------------------------------------------------
+
+## Case Experiences
+
+### Universitat Politècnica de València
+
+```{r}
+knitr::include_url("https://drive.google.com/file/d/1-KwtbuXuLLv3LM0nwvNkV4ojPJbiKTPU/preview")
+```
+
+Professor Carola Calabuig shares her experience and vision on social innovation at the INGENIO Research Institute of the Universitat Politècnica de València. She emphasizes the importance of the collective and grassroots dimension of innovation processes that happen outside the dominant or traditional spaces of knowledge generation.
+
+### Universidad de Guadalajara
+
+```{r}
+knitr::include_url("https://drive.google.com/file/d/1h9W80TqDNQsY6OESRbC3HRKFsDRVVaA_/preview")
+```
+
+Professor Javier Garcia of the Universidad de Guadalajara gives an overview of the project Carbon footprint measurement for the generation of sustainable strategies in avocado crops.
+
+------------------------------------------------------------------------
+
+## Team Workshop 1
 
 TAsk to do at the en with your CLT
 
-## References
+## Complimentary Readings
