@@ -1,10 +1,12 @@
 bookdown::gitbook:
   css: CLIP.css
+#  includes:
+#    after_body: html/utterances.html 
   config:
     toc:
       before: |
         <li class="toc-logo"><a href="http://climate-labs.org/"><img src="Figures/Logos/ClimateLabs-FullColor.png"></a></li>
-        <li><a href="./">Climate Labs Innovation Program <br>CLIP</a></li>
+        <li><a href="https://lf2l.fr/CLIP/">Climate Labs Innovation Program <br>CLIP</a></li>
       after: |
         <li><a href="http://climate-labs.org/" target="blank">Climate Labs</a></li>
     download: ["pdf", "epub"]

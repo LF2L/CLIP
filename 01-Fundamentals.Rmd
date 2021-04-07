@@ -68,6 +68,44 @@ Professor Javier Garcia of the Universidad de Guadalajara gives an overview of t
 
 ## Team Workshop 1
 
-TAsk to do at the en with your CLT
+In this link will be able to acces to the proposed workshop for each University:
+
+
+## Colombia {.unnumbered}
+
+-   [Universidad de Caldas](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675648741/c2ce6b3dfa94dc38dbd1d84b626eb431b384b0ce)
+
+-   [Universidad del Quindio](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675741457/f922ea23c9660f9a14ac1c91ff7e89b7d0b3d080)
+
+-   [Universidad de Manizales](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675702123/dc11760127e13af1e59a5575681bda5cfe633597)
+
+-   [Universidad Técnologica de Pereira](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675755540/5bc719c6f778fd04d56cea49018abe9625f58f33)
+
+-   [Corporacion Universitaria Minuto de Dios](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675729753/e52a7d6a35ef34d45facc76dd1954c84b6bb1899)
+
+## México {.unnumbered}
+
+-   [Technologico de Monterrey](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675559523/b7b4daa571c961a087610e1ee45d23656f4478e1)
+
+-   [Universidad de Guadalajara](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675685168/778690af833bddde7f5defb515d485d9661f73ad)
+
+## Brazil {.unnumbered}
+
+-   [Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675651832/fd916ddfef68c5a40ea5bb79c4f0180341392bb8)
+
+-   [Pontifícia Universidade Católica Do Paraná](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675588772/acac787fc9e21dc3995a307aff1cc2572f1422de)
+
+-   [Universidade Católica de Pernambuco](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675715846/7d87fc7bf493a5877d434f08c408d16de43a94f7)
+
 
 ## Complimentary Readings
+
+
+
+
+## Let us know your comments 
+
+Here, you can put your comments/questions or thoughts about this sprint using the botton 'Edit' 
+
+
+<iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0"></iframe>

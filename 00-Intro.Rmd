@@ -66,57 +66,45 @@ To successfully complete the incubation program, the CLT need to: 
 
 # Program Schedule {.unnumbered}
 
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| **Sprint**                                 | **Goal(s)**                                                                 | **Main Focus**                                                                                                  |
-+:===========================================+:============================================================================+:================================================================================================================+
-| Sprint 1                                   | \- Build the Climate Lab Manifesto                                          | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                               |
-|                                            |                                                                             |                                                                                                                 |
-| **Fundamentals & Principles**              |                                                                             | \                                                                                                               |
-|                                            |                                                                             |                                                                                                                 |
-| 3 weeks                                    |                                                                             | \- Teams focus on defining the CLT purpose                                                                      |
-|                                            |                                                                             |                                                                                                                 |
-| From 09/04/21 to 29/04/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 2                                   | \- Define the Climate Lab's vision and objectives                           | \- The importance of building a collective strategic intent                                                     |
-|                                            |                                                                             |                                                                                                                 |
-| **Strategic Intent & Process of Creation** | \                                                                           | \                                                                                                               |
-|                                            |                                                                             |                                                                                                                 |
-| 4 weeks                                    | \- Design of the social innovation model                                    | \- Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
-|                                            |                                                                             |                                                                                                                 |
-| From 30/04/21 to 27/05/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 3                                   | \- Translate the Climate Lab's vision into a technological resource roadmap | \- Management of technological resources                                                                        |
-|                                            |                                                                             |                                                                                                                 |
-| **Physical Embodiment**                    |                                                                             | \                                                                                                               |
-|                                            |                                                                             |                                                                                                                 |
-| 4 weeks                                    |                                                                             | \- Spaces to support social innovation                                                                          |
-|                                            |                                                                             |                                                                                                                 |
-| From 28/05/21 to 01/07/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 4                                   | \- Design the business model & local strategy of the Climate Lab            | \- The role of innovation of innovation lab in universities and climate change                                  |
-|                                            |                                                                             |                                                                                                                 |
-| **Process of Use & Outcomes**              |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| 6 weeks (including summer break)           |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| From 02/07/21 to 19/08/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 5                                   | \- Assess the Climate Lab performance                                       | \- Practices for a more creative, resilient and enduring operation                                              |
-|                                            |                                                                             |                                                                                                                 |
-| **Assessment & Adaptation**                |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| 4 weeks                                    |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| From 20/08/21 to 23/09/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
-| Sprint 6                                   | \- Set-up of the local Climate Lab pilot project                            | \- Moving from strategic to operational level: applying the living lab approach                                 |
-|                                            |                                                                             |                                                                                                                 |
-| **Pilot Project**                          |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| 3 weeks                                    |                                                                             |                                                                                                                 |
-|                                            |                                                                             |                                                                                                                 |
-| From 24/09/21 to 15/10/21                  |                                                                             |                                                                                                                 |
-+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| **Sprint** | Object                                     | **Goal(s)**                                                                 | **Main Focus**                                                                                                  |
++============+:===========================================+:============================================================================+:================================================================================================================+
+| I          | **Fundamentals & Principles**              | \- Build the Climate Lab Manifesto                                          | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                               |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 3 weeks                                    |                                                                             | \                                                                                                               |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 09/04/21 to 29/04/21                  |                                                                             | \- Teams focus on defining the CLT purpose                                                                      |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| II         | **Strategic Intent & Process of Creation** | \- Define the Climate Lab's vision and objectives                           | \- The importance of building a collective strategic intent                                                     |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 4 weeks                                    | \                                                                           | \                                                                                                               |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 30/04/21 to 27/05/21                  | \- Design of the social innovation model                                    | \- Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| III        | **Physical Embodiment**                    | \- Translate the Climate Lab's vision into a technological resource roadmap | \- Management of technological resources                                                                        |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 4 weeks                                    |                                                                             | \                                                                                                               |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 28/05/21 to 01/07/21                  |                                                                             | \- Spaces to support social innovation                                                                          |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| IV         | **Process of Use & Outcomes**              | \- Design the business model & local strategy of the Climate Lab            | \- The role of innovation of innovation lab in universities and climate change                                  |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 6 weeks (including summer break)           |                                                                             |                                                                                                                 |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 02/07/21 to 19/08/21                  |                                                                             |                                                                                                                 |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| V          | **Assessment & Adaptation**                | \- Assess the Climate Lab performance                                       | \- Practices for a more creative, resilient and enduring operation                                              |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 4 weeks                                    |                                                                             |                                                                                                                 |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 20/08/21 to 23/09/21                  |                                                                             |                                                                                                                 |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
+| VI         | **Pilot Project**                          | \- Set-up of the local Climate Lab pilot project                            | \- Moving from strategic to operational level: applying the living lab approach                                 |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | 3 weeks                                    |                                                                             |                                                                                                                 |
+|            |                                            |                                                                             |                                                                                                                 |
+|            | From 24/09/21 to 15/10/21                  |                                                                             |                                                                                                                 |
++------------+--------------------------------------------+-----------------------------------------------------------------------------+-----------------------------------------------------------------------------------------------------------------+
 
 # CLIP Team {.unnumbered}
 
@@ -194,4 +182,26 @@ To successfully complete the incubation program, the CLT need to: 
 
 In this link will be able to prototype your website :
 
--   [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit) {-}
+-   [Universidad de Caldas](https://sites.google.com/d/1pL3lPApfBU9OLEuKKYBZXeXeYRb-jaE-/p/1tui6PT_kfWJ98nbQqok9pOKUDlXlUtG5/edit)
+
+-   [Universidad del Quindio]()
+
+-   [Universidad de Manizales]()
+
+-   [Universidad Técnologica de Pereira]()
+
+-   [Corporacion Universitaria Minuto de Dios]()
+
+## México {.unnumbered}
+
+-   [Technologico de Monterrey]()
+
+-   [Universidad de Guadalajara]()
+
+## Brazil {.unnumbered}
+
+-   [Universidad de Caldas]()
+
+-   [Universidad de Caldas]()
+
+-   [Universidad de Caldas]()
