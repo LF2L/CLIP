@@ -118,6 +118,8 @@ To successfully complete the incubation program, the CLT need to: 
 
     -   Ferney Osorio
 
+    -   Fanny Pruvot
+
 -   **Pontifícia Universidade Católica do Paraná**
 
     -   André Turbay
@@ -206,7 +208,7 @@ In this link will be able to prototype your website :
 
 -   [Corporacion Universitaria Minuto de Dios]()
 
-## México {.unnumbered}
+## Mexico {.unnumbered}
 
 -   [Technologico de Monterrey]()
 
@@ -214,8 +216,8 @@ In this link will be able to prototype your website :
 
 ## Brazil {.unnumbered}
 
--   [Universidad de Caldas]()
+-   [Pontifícia Universidade Católica do Rio Grande do Sul]()
 
--   [Universidad de Caldas]()
+-   [Pontifícia Universidade Católica do Paraná]()
 
--   [Universidad de Caldas]()
+-   [Universidade Católica de Pernambuco]()
