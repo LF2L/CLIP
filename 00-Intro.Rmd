@@ -174,7 +174,7 @@ To successfully complete the incubation program, the CLT need to: 
 | -   Universidad de Guadalajara                               |                                                    |
 +--------------------------------------------------------------+----------------------------------------------------+
 
-## Tutorship Schedule
+## Tutorship Schedule {.unnumbered}
 
 All tutorship sessions will be held in parallel rooms via Zoom at 16h00 CET - 9:00am COL/MEX - 11:00am BRA
 
