@@ -1,4 +1,3 @@
-tutorship-schedule
 intro
 sprint-opening
 conceptual-videos
