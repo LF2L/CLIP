@@ -1,3 +1,4 @@
+tutorship-schedule
 intro
 sprint-opening
 conceptual-videos
@@ -8,5 +9,4 @@ case-experiences
 universitat-politècnica-de-valència
 universidad-de-guadalajara
 team-workshop-1
-complimentary-readings
 let-us-know-your-comments

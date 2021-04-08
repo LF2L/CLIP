@@ -136,8 +136,6 @@ To successfully complete the incubation program, the CLT need to: 
 
     -   Paola Alfaro
 
-    -   Ayla Schiappacasse
-
 -   **Ashoka**
 
     -   Waldo Soto
@@ -146,35 +144,51 @@ To successfully complete the incubation program, the CLT need to: 
 
 ## Tutorship Groups {.unnumbered}
 
-+--------------------------------------------------------------+--------------------------------------------------------+
-| **Groups of Universities**                                   | **Mentoring Team**                                     |
-+==============================================================+========================================================+
-| **Group 1**                                                  | **Fabio Cruz**, Sergio Beida, Gabriela Carrasco        |
-|                                                              |                                                        |
-| -   Pontifícia Universidade Católica do Paraná               |                                                        |
-|                                                              |                                                        |
-| -   Universidad del Quindio                                  |                                                        |
-|                                                              |                                                        |
-| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                        |
-+--------------------------------------------------------------+--------------------------------------------------------+
-| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Ayla Schiappacasse |
-|                                                              |                                                        |
-| -   Universidade Católica de Pernambuco                      |                                                        |
-|                                                              |                                                        |
-| -   Universidad de Caldas                                    |                                                        |
-|                                                              |                                                        |
-| -   Universidad Tecnológica de Pereira                       |                                                        |
-+--------------------------------------------------------------+--------------------------------------------------------+
-| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto             |
-|                                                              |                                                        |
-| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                        |
-|                                                              |                                                        |
-| -   Corporación Universitaria Minuto de Dios                 |                                                        |
-|                                                              |                                                        |
-| -   Universidad de Manizales                                 |                                                        |
-|                                                              |                                                        |
-| -   Universidad de Guadalajara                               |                                                        |
-+--------------------------------------------------------------+--------------------------------------------------------+
++--------------------------------------------------------------+----------------------------------------------------+
+| **Groups of Universities**                                   | **Mentoring Team**                                 |
++==============================================================+====================================================+
+| **Group 1**                                                  | **Fabio Cruz**, Sergio Beida, Gabriela Carrasco    |
+|                                                              |                                                    |
+| -   Pontifícia Universidade Católica do Paraná               |                                                    |
+|                                                              |                                                    |
+| -   Universidad del Quindio                                  |                                                    |
+|                                                              |                                                    |
+| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                    |
++--------------------------------------------------------------+----------------------------------------------------+
+| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Harry Bollmann |
+|                                                              |                                                    |
+| -   Universidade Católica de Pernambuco                      |                                                    |
+|                                                              |                                                    |
+| -   Universidad de Caldas                                    |                                                    |
+|                                                              |                                                    |
+| -   Universidad Tecnológica de Pereira                       |                                                    |
++--------------------------------------------------------------+----------------------------------------------------+
+| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto         |
+|                                                              |                                                    |
+| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                    |
+|                                                              |                                                    |
+| -   Corporación Universitaria Minuto de Dios                 |                                                    |
+|                                                              |                                                    |
+| -   Universidad de Manizales                                 |                                                    |
+|                                                              |                                                    |
+| -   Universidad de Guadalajara                               |                                                    |
++--------------------------------------------------------------+----------------------------------------------------+
+
+## Tutorship Schedule
+
+All tutorship sessions will be held in parallel rooms via Zoom at 16h00 CET - 9:00am COL/MEX - 11:00am BRA
+
+-   Session 1 - 23/04/2021
+
+-   Session 2 - 14/05/2021
+
+-   Session 3 - 11/06/2021
+
+-   Session 4 - 09/07/2021
+
+-   Session 5 - 03/09/2021
+
+-   Session 6 - 08/10/2021
 
 # Prototyping your Climate Lab {.unnumbered}
 

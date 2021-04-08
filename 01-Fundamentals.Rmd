@@ -16,7 +16,7 @@ A webinar will be held on April 9 to officially launch the incubation program. I
 
 3.  Next, you will find the link to the **team workshop** of this sprint. The workshop should be completed before the end of the sprint (**April 29**).
 
-4.  And finally, **complementary readings** are offered for those who would like to further explore the topics adressed in this sprint.
+4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
 
 ------------------------------------------------------------------------
 
@@ -51,7 +51,7 @@ Professor Laure Morel from Université de Lorraine introduces the notion of inno
 ### Universitat Politècnica de València
 
 ```{r}
-knitr::include_url("https://drive.google.com/file/d/1-KwtbuXuLLv3LM0nwvNkV4ojPJbiKTPU/preview")
+knitr::include_url("https://www.youtube.com/embed/uMQr1uIiRD0")
 ```
 
 Professor Carola Calabuig shares her experience and vision on social innovation at the INGENIO Research Institute of the Universitat Politècnica de València. She emphasizes the importance of the collective and grassroots dimension of innovation processes that happen outside the dominant or traditional spaces of knowledge generation.
@@ -59,7 +59,7 @@ Professor Carola Calabuig shares her experience and vision on social innovation 
 ### Universidad de Guadalajara
 
 ```{r}
-knitr::include_url("https://drive.google.com/file/d/1h9W80TqDNQsY6OESRbC3HRKFsDRVVaA_/preview")
+knitr::include_url("https://www.youtube.com/embed/J0mUmCHkabo")
 ```
 
 Professor Javier Garcia of the Universidad de Guadalajara gives an overview of the project Carbon footprint measurement for the generation of sustainable strategies in avocado crops.
@@ -68,8 +68,7 @@ Professor Javier Garcia of the Universidad de Guadalajara gives an overview of t
 
 ## Team Workshop 1
 
-In this link will be able to acces to the proposed workshop for each University:
-
+In this link will be able to access to the proposed workshop for each University:
 
 ## Colombia {.unnumbered}
 
@@ -97,15 +96,10 @@ In this link will be able to acces to the proposed workshop for each University:
 
 -   [Universidade Católica de Pernambuco](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675715846/7d87fc7bf493a5877d434f08c408d16de43a94f7)
 
+## Let us know your comments
 
-## Complimentary Readings
+Here, you can put your comments/questions or thoughts about this sprint using the bottom 'Edit'
 
+<iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0">
 
-
-
-## Let us know your comments 
-
-Here, you can put your comments/questions or thoughts about this sprint using the botton 'Edit' 
-
-
-<iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0"></iframe>
+</iframe>
