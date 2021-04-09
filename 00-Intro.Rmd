@@ -128,11 +128,11 @@ To successfully complete the incubation program, the CLT need to: 
 
 ## Mentors {.unnumbered}
 
--   **Universitat Politècnica de València & Universitat de València**
+-   **Universitat Politècnica de València**
 
     -   Carola Calabuig
 
-    -   Sergio Beida
+    -   Álvaro Fernández-Baldor
 
 -   **Università di Genova**
 
@@ -146,35 +146,35 @@ To successfully complete the incubation program, the CLT need to: 
 
 ## Tutorship Groups {.unnumbered}
 
-+--------------------------------------------------------------+----------------------------------------------------+
-| **Groups of Universities**                                   | **Mentoring Team**                                 |
-+==============================================================+====================================================+
-| **Group 1**                                                  | **Fabio Cruz**, Sergio Beida, Gabriela Carrasco    |
-|                                                              |                                                    |
-| -   Pontifícia Universidade Católica do Paraná               |                                                    |
-|                                                              |                                                    |
-| -   Universidad del Quindio                                  |                                                    |
-|                                                              |                                                    |
-| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                    |
-+--------------------------------------------------------------+----------------------------------------------------+
-| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Harry Bollmann |
-|                                                              |                                                    |
-| -   Universidade Católica de Pernambuco                      |                                                    |
-|                                                              |                                                    |
-| -   Universidad de Caldas                                    |                                                    |
-|                                                              |                                                    |
-| -   Universidad Tecnológica de Pereira                       |                                                    |
-+--------------------------------------------------------------+----------------------------------------------------+
-| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto         |
-|                                                              |                                                    |
-| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                    |
-|                                                              |                                                    |
-| -   Corporación Universitaria Minuto de Dios                 |                                                    |
-|                                                              |                                                    |
-| -   Universidad de Manizales                                 |                                                    |
-|                                                              |                                                    |
-| -   Universidad de Guadalajara                               |                                                    |
-+--------------------------------------------------------------+----------------------------------------------------+
++--------------------------------------------------------------+------------------------------------------------------------+
+| **Groups of Universities**                                   | **Mentoring Team**                                         |
++==============================================================+============================================================+
+| **Group 1**                                                  | **Fabio Cruz**, Álvaro Fernández-Baldor, Gabriela Carrasco |
+|                                                              |                                                            |
+| -   Pontifícia Universidade Católica do Paraná               |                                                            |
+|                                                              |                                                            |
+| -   Universidad del Quindio                                  |                                                            |
+|                                                              |                                                            |
+| -   Instituto Tecnológico y Estudios Superiores de Monterrey |                                                            |
++--------------------------------------------------------------+------------------------------------------------------------+
+| **Group 2**                                                  | **Ferney Osorio**, Carola Calabuig, Harry Bollmann         |
+|                                                              |                                                            |
+| -   Universidade Católica de Pernambuco                      |                                                            |
+|                                                              |                                                            |
+| -   Universidad de Caldas                                    |                                                            |
+|                                                              |                                                            |
+| -   Universidad Tecnológica de Pereira                       |                                                            |
++--------------------------------------------------------------+------------------------------------------------------------+
+| **Group 3**                                                  | **André Turbay,** Paola Alfaro, Waldo Soto                 |
+|                                                              |                                                            |
+| -   Pontifícia Universidade Católica do Rio Grande do Sul    |                                                            |
+|                                                              |                                                            |
+| -   Corporación Universitaria Minuto de Dios                 |                                                            |
+|                                                              |                                                            |
+| -   Universidad de Manizales                                 |                                                            |
+|                                                              |                                                            |
+| -   Universidad de Guadalajara                               |                                                            |
++--------------------------------------------------------------+------------------------------------------------------------+
 
 ## Tutorship Schedule {.unnumbered}
 
