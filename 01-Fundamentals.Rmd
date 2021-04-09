@@ -25,7 +25,7 @@ A webinar will be held on April 9 to officially launch the incubation program. I
 ### Climate change and social challenges - Paola Alfaro d'Alençon & Harry Bollmann
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/-6Qgjix05sA")
+knitr::include_url("https://www.youtube.com/embed/g6ukdHJxQoY")
 ```
 
 Professors Paola Alfaro d'Alençon from TU Berlin and Università di Genova, and Harry Bollman from Universidade Católica do Paraná have prepared a conversation around the mains aspects of climate change. Based on their experiences at their universities and the projects they have been involved in, Paola and Harry discuss climate change through different facets such as climate injustice, social infrastructure, governance and community. This video was edited with the best moments from the complete conversation, which can be accessed [here](https://www.youtube.com/embed/uO25jFtzatA).
