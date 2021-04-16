@@ -18,6 +18,12 @@ A webinar will be held on April 9 to officially launch the incubation program. I
 
 4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
 
+> The **full recording of the webinar** can be watched below. Alternatively, you can access the slides from the webinar [here](https://drive.google.com/drive/u/1/folders/1aeVH7sDIUmUTPZkgh0VoBfL4tOBv1bks).
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
+```
+
 ------------------------------------------------------------------------
 
 ## Conceptual Videos
@@ -70,7 +76,7 @@ Professor Javier Garcia of the Universidad de Guadalajara gives an overview of t
 
 ## Team Workshop 1
 
-Here you can find the link to access to the proposed workshop for each University:
+Here you can find for each University the link to the sprint 1 workshop:
 
 ## Colombia {.unnumbered}
 
@@ -80,13 +86,13 @@ Here you can find the link to access to the proposed workshop for each Universit
 
 -   [Universidad de Manizales](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675702123/dc11760127e13af1e59a5575681bda5cfe633597)
 
--   [Universidad Técnologica de Pereira](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675755540/5bc719c6f778fd04d56cea49018abe9625f58f33)
+-   [Universidad Tecnológica de Pereira](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675755540/5bc719c6f778fd04d56cea49018abe9625f58f33)
 
 -   [Corporacion Universitaria Minuto de Dios](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675729753/e52a7d6a35ef34d45facc76dd1954c84b6bb1899)
 
 ## Mexico {.unnumbered}
 
--   [Technologico de Monterrey](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675559523/b7b4daa571c961a087610e1ee45d23656f4478e1)
+-   [Instituto Tecnológico y Estudios Superiores de Monterrey](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675559523/b7b4daa571c961a087610e1ee45d23656f4478e1)
 
 -   [Universidad de Guadalajara](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675685168/778690af833bddde7f5defb515d485d9661f73ad)
 
