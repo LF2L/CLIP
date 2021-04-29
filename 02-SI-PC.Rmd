@@ -1,25 +1,107 @@
-# Strategic Intend \& Process of Creation
+# Strategic Intent \& Process of Creation {#sprint_2}
 
-## Intro
+## Sprint Opening
 
-Welcome to the Fundamentals and prin
+Welcome to the second sprint of the CLIP. 
+I hope that the fir
 
->the main goal is ...
+In this second sprint, the focus will be **Strategic Intent \& Process of Creation**.
 
-## Things to do at the end of this Sprint
+::: {.infobox .assignment data-latex="{.assignment}"}
+**NOTICE!**
 
-TAsk to do at the en with your CLT
+Our webinar will be held on **April 30/2021** to officially launch the Sprint II. 
 
-
-
-## Purpose Presentation of this Sprint
-
-Here the presentation
-
-### Strategic Intent
-
-### Process of Creation
+*Sprint dates: **From April 9 to April 29***
 
 
-## References
+It will be a synchronous session, so all CLT are expected to attend. 
+
+:::
+
+In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
+
+1.  Firstly, you will find **three conceptual videos** which are proposed to open the discussion on the three thematic pillars that constitute the construction of the Strategic Intent.
+
+2.  Secondly, **two case experiences** from members of the consortium are shared. This way we can learn a little more about the experience of each of the CLT.
+
+3.  Next, you will find the link to the **team workshop** of this sprint. The workshop should be completed before the end of the sprint (**April XX**).
+
+4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
+
+
+------------------------------------------------------------------------
+
+## Conceptual Videos
+
+### Strategic Intent - Ferney
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/g6ukdHJxQoY")
+```
+
+Ferney
+
+### What is Proncess of Cretion? - Laurent
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/Tb3x7XeRyhI")
+```
+
+Laurent from Ashoka and 2811 shares an introduction to social innovation and entrepreneurship.
+
+------------------------------------------------------------------------
+
+## Case Experiences
+
+### Université de Lorraine -- Giovanny ARBELAEZ
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/uMQr1uIiRD0")
+```
+
+Professor Carola Calabuig shares his experience and vision on 
+
+
+
+------------------------------------------------------------------------
+
+## Team Workshop 1
+
+Here you can find for each University the link to the sprint II workshop:
+
+## Colombia {.unnumbered}
+
+-   [Universidad de Caldas]()
+
+-   [Universidad del Quindio]()
+
+-   [Universidad de Manizales]()
+
+-   [Universidad Tecnológica de Pereira]()
+
+-   [Corporacion Universitaria Minuto de Dios]()
+
+## Mexico {.unnumbered}
+
+-   [Instituto Tecnológico y Estudios Superiores de Monterrey]()
+
+-   [Universidad de Guadalajara]()
+
+## Brazil {.unnumbered}
+
+-   [Pontifícia Universidade Católica do Rio Grande do Sul]()
+
+-   [Pontifícia Universidade Católica Do Paraná]()
+
+-   [Universidade Católica de Pernambuco]()
+
+## Let us know your comments
+
+In this section, you can put any comments/questions or share your thoughts and feedback about this sprint. To insert new text, use the "Edit" button.
+
+<iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0">
+</iframe>
+
+
 

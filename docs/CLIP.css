@@ -18,26 +18,26 @@
   background-repeat: no-repeat;
   background-position: 15px center;
   min-height: 120px;
-  color: #592c8c; /* #2ea8b3; */
+  color: #254592; /* #2ea8b3; */
   background-color: #fcfcfc;
 }
 .assignment {
-  background-image: url("../general_images/hat.png");
+  background-image: url("Figures/Notes/hat.png");
 }
 .caution {
-  background-image: url("../general_images/caution.png");
+  background-image: url("Figures/Notes/caution.png");
 }
 .important {
-  background-image: url("../general_images/important.png");
+  background-image: url("Figures/Notes/important.png");
 }
 .note {
-  background-image: url("../general_images/design.png");
+  background-image: url("Figures/Notes/design.png");
 }
 .tip {
-  background-image: url("../general_images/lightbulb.png");
+  background-image: url("Figures/Notes/lightbulb.png");
 }
 .warning {
-  background-image: url("../general_images/gotcha_2.png");
+  background-image: url("Figures/Notes/gotcha_2.png");
 }
 p.caption {
   color: #777;
