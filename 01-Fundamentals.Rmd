@@ -101,5 +101,4 @@ In this link will be able to access to the proposed workshop for each University
 Here, you can put your comments/questions or thoughts about this sprint using the bottom 'Edit'
 
 <iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0">
-
 </iframe>
