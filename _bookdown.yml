@@ -3,7 +3,7 @@ rmd_files:
 - index.Rmd
 - 00-Intro.Rmd
 - 01-Fundamentals.Rmd
-#- 02-SI-PC.Rmd
+- 02-SI-PC.Rmd
 #- 03-PE.Rmd
 #- 04-PO-Outcomes.Rmd
 #- 05-A-A.Rmd
