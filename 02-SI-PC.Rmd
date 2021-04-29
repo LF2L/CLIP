@@ -13,13 +13,14 @@ Welcome to the second sprint of the CLIP. I hope that the fir
 In this second sprint, the focus will be **Strategic Intent & Process of
 Creation**.
 
-::: {.infobox .assignment data-latex="{.assignment}"}
-**NOTICE!**
+::: {.infobox .goal data-latex="{.goal}"}
+
+**Goal!**
 
 Our webinar will be held on **April 30/2021** to officially launch the
 Sprint II.
 
-*Sprint dates: **From April 9 to April 29***
+*Sprint dates: **From April 9 to April 29 / 2021***
 
 It will be a synchronous session, so all CLT are expected to attend.
 :::

@@ -4,9 +4,13 @@
 
 Welcome to the first sprint of the CLIP. Here we are going to focus con the Fundamentals and Principles for the Climate Labs.
 
+::: {.infobox .goal data-latex="{.goal}"}
+**NOTICE!**
+
 > The main goal in this sprint is to build your **Climate Lab Manifesto**
 >
 > *Sprint dates: **From April 9 to April 29***
+:::
 
 A webinar will be held on April 9 to officially launch the incubation program. It will be a synchronous session, so all CLT are expected to attend. In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
 
@@ -18,7 +22,12 @@ A webinar will be held on April 9 to officially launch the incubation program. I
 
 4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
 
-> The **full recording of the webinar** can be watched below. Alternatively, you can access the slides from the webinar [here](https://drive.google.com/file/d/1d9LqoS8m5x47GpLhOdGzTJdwOGSDnFwj/view?usp=sharing).
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The [**full recording of the webinar** can be watched below. Alternatively, you can access the slides from the webinar here](https://drive.google.com/file/d/1d9LqoS8m5x47GpLhOdGzTJdwOGSDnFwj/view?usp=sharing).
+:::
+
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
