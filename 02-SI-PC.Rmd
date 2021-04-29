@@ -1,38 +1,77 @@
-# Strategic Intent \& Process of Creation {#sprint_2}
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+# Strategic Intent & Process of Creation {#sprint_2}
 
 ## Sprint Opening
 
-Welcome to the second sprint of the CLIP. 
-I hope that the fir
+Welcome to the second sprint of the CLIP. I hope that the fir
 
-In this second sprint, the focus will be **Strategic Intent \& Process of Creation**.
+In this second sprint, the focus will be **Strategic Intent & Process of
+Creation**.
 
 ::: {.infobox .assignment data-latex="{.assignment}"}
 **NOTICE!**
 
-Our webinar will be held on **April 30/2021** to officially launch the Sprint II. 
+Our webinar will be held on **April 30/2021** to officially launch the
+Sprint II.
 
 *Sprint dates: **From April 9 to April 29***
 
-
-It will be a synchronous session, so all CLT are expected to attend. 
-
+It will be a synchronous session, so all CLT are expected to attend.
 :::
 
-In addition, a series of contents and activities are proposed to the CLT to be completed during the sprint:
+In addition, a series of contents and activities are proposed to the CLT
+to be completed during the sprint:
 
-1.  Firstly, you will find **three conceptual videos** which are proposed to open the discussion on the three thematic pillars that constitute the construction of the Strategic Intent.
+1.  Firstly, you will find **three conceptual videos** which are
+    proposed to open the discussion on the three thematic pillars that
+    constitute the construction of the Strategic Intent.
 
-2.  Secondly, **two case experiences** from members of the consortium are shared. This way we can learn a little more about the experience of each of the CLT.
+2.  Secondly, **two case experiences** from members of the consortium
+    are shared. This way we can learn a little more about the experience
+    of each of the CLT.
 
-3.  Next, you will find the link to the **team workshop** of this sprint. The workshop should be completed before the end of the sprint (**April XX**).
+3.  Next, you will find the link to the **team workshop** of this
+    sprint. The workshop should be completed before the end of the
+    sprint (**April XX**).
 
-4.  And finally, **complementary readings** are offered for those who would like to further explore the topics addressed in this sprint.
-
+4.  And finally, **complementary readings** are offered for those who
+    would like to further explore the topics addressed in this sprint.
 
 ------------------------------------------------------------------------
 
 ## Conceptual Videos
+
+
+### Background on Strategic intent
+
+According to @Moultrie2007b, the design of an environment "enables the
+development of unique capabilities, enables reconfiguration of
+capabilities to changing demands, and supports synergies between
+complementary assets". Hence, it is necessary to be conscious of which
+kind of capabilities and assets are important to enable and how the
+laboratory is strategically conceived around its context.
+
+| Col1                  | Col2 |
+|-----------------------|------|
+| Strategic goals       |      |
+| Symbolic goals        |      |
+| Innovation efficiency |      |
+|                       |      |
+|                       |      |
+: Strategic Intent of Innovation Environments Strategic goals
+
+Looking to understand the degree of consciousness in which an innovation
+laboratory is conceived... Some questions were presented according to
+the levels of the grid to determine how managers reflect on specific
+criteria from a strategic perspective. As for the strategic goals, we
+found that the question seems understandable to respondents reflecting
+on how they have foreseen
+
 
 ### Strategic Intent - Ferney
 
@@ -40,15 +79,17 @@ In addition, a series of contents and activities are proposed to the CLT to be c
 knitr::include_url("https://www.youtube.com/embed/g6ukdHJxQoY")
 ```
 
-Ferney
+Ferney 
 
-### What is Proncess of Cretion? - Laurent
+
+### What is Proncess of Creation? - Laurent
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/Tb3x7XeRyhI")
+knitr::include_url(" ")
 ```
 
-Laurent from Ashoka and 2811 shares an introduction to social innovation and entrepreneurship.
+Laurent from Ashoka and 2811 shares an introduction to social innovation
+and entrepreneurship.
 
 ------------------------------------------------------------------------
 
@@ -57,18 +98,17 @@ Laurent from Ashoka and 2811 shares an introduction to social innovation and ent
 ### Université de Lorraine -- Giovanny ARBELAEZ
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/uMQr1uIiRD0")
+knitr::include_url(" ")
 ```
 
-Professor Carola Calabuig shares his experience and vision on 
-
-
+Professor Carola Calabuig shares his experience and vision on
 
 ------------------------------------------------------------------------
 
 ## Team Workshop 1
 
-Here you can find for each University the link to the sprint II workshop:
+Here you can find for each University the link to the sprint II
+workshop:
 
 ## Colombia {.unnumbered}
 
@@ -98,10 +138,10 @@ Here you can find for each University the link to the sprint II workshop:
 
 ## Let us know your comments
 
-In this section, you can put any comments/questions or share your thoughts and feedback about this sprint. To insert new text, use the "Edit" button.
+In this section, you can put any comments/questions or share your
+thoughts and feedback about this sprint. To insert new text, use the
+"Edit" button.
 
 <iframe width="100%" height="300" src="https://hackmd.io/@fabbiocrux/CLIP-sprint-I" frameborder="0">
+
 </iframe>
-
-
-
