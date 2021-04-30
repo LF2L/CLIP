@@ -39,6 +39,12 @@
 .warning {
   background-image: url("Figures/Notes/gotcha_2.png");
 }
+
+/*------------- Mentors ---------------- */
+.fabio {
+  background-image: url("Figures/people/fabio.jpg");
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
