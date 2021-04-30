@@ -28,7 +28,6 @@ A webinar will be held on April 9 to officially launch the incubation program. I
 The [**full recording of the webinar** can be watched below. Alternatively, you can access the slides from the webinar here](https://drive.google.com/file/d/1d9LqoS8m5x47GpLhOdGzTJdwOGSDnFwj/view?usp=sharing).
 :::
 
-
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/2Bh4ZhNqxhc")
 ```
