@@ -71,42 +71,33 @@ Some of the commonly aspects to consider at the moment of defining the
 strategic intent of an innovation lab are [@osorio2019; @Moultrie2007b]
 :
 
-+---------+-----------------------------------------------------------+
-| C       | Description                                               |
-| riteria |                                                           |
-+=========+===========================================================+
-| St      | To support the mission of the organization or association |
-| rategic | innovation strategy                                       |
-| &       |                                                           |
-| S       |                                                           |
-| ymbolic |                                                           |
-| Goals   |                                                           |
-+---------+-----------------------------------------------------------+
-| Ec      | To generate added value for all the stakeholders          |
-| osystem | involved, to create long-term engagement and              |
-| A       | identification with the lab.                              |
-| pproach |                                                           |
-+---------+-----------------------------------------------------------+
-| Real    | To capture or resemble real life environments (through    |
-| Context | space, equipment or methodologies).                       |
-| World   |                                                           |
-+---------+-----------------------------------------------------------+
-| User's  | To involve users in the different phases of innovation    |
-| Invo    | cycle in which they can test, evaluate, contribute and    |
-| lvement | co-create.                                                |
-+---------+-----------------------------------------------------------+
-| Culture | To build an identity and to grow a community of users     |
-| and     | engaged and motivated with access to the laboratory.      |
-| Co      |                                                           |
-| mmunity |                                                           |
-+---------+-----------------------------------------------------------+
-| T       | To enhance teamwork in innovation, encouraging better     |
-| eamwork | communication (physical or virtual), encourage formal and |
-|         | informal social interaction and motivate staff.           |
-+---------+-----------------------------------------------------------+
-| L       | To estimate the length of the project as a whole (short,  |
-| ifespan | mid or long-term).                                        |
-+---------+-----------------------------------------------------------+
++----------------------------+-----------------------------------------------------------+
+| Criteria                   | Description                                               |
++============================+===========================================================+
+| Strategic & Symbolic Goals | To support the mission of the organization or association |
+|                            | innovation strategy                                       |
++----------------------------+-----------------------------------------------------------+
+| Ecosystem Approach         | To generate added value for all the stakeholders          |
+|                            | involved, to create long-term engagement and              |
+|                            | identification with the lab.                              |
++----------------------------+-----------------------------------------------------------+
+| Real Context World         | To capture or resemble real life environments (through    |
+|                            | space, equipment or methodologies).                       |
++----------------------------+-----------------------------------------------------------+
+| User's Involvement         | To involve users in the different phases of innovation    |
+|                            | cycle in which they can test, evaluate, contribute and    |
+|                            | co-create.                                                |
++----------------------------+-----------------------------------------------------------+
+| Culture and Community      | To build an identity and to grow a community of users     |
+|                            | engaged and motivated with access to the laboratory.      |
++----------------------------+-----------------------------------------------------------+
+| Teamwork                   | To enhance teamwork in innovation, encouraging better     |
+|                            | communication (physical or virtual), encourage formal and |
+|                            | informal social interaction and motivate staff.           |
++----------------------------+-----------------------------------------------------------+
+| Lifespan                   | To estimate the length of the project as a whole (short,  |
+|                            | mid or long-term).                                        |
++----------------------------+-----------------------------------------------------------+
 
 : Strategic Intent - Guiding set of criteria for Innovation Labs
 
@@ -123,44 +114,31 @@ Here we share with you some of the commonly aspects to take into account
 during the process of creation of an innovation lab [@osorio2019;
 @Moultrie2007b]:
 
-+-------+--------------------------------------------------------------+
-| Cri   | Description                                                  |
-| teria |                                                              |
-+=======+==============================================================+
-| Int   | The intended role of the lab in supporting innovation        |
-| ended | processes: Opportunity Identification, Concept Creation,     |
-| Innov | Concept Validation, Solution Development, Solution           |
-| ation | Deployment                                                   |
-| Proc  |                                                              |
-| esses |                                                              |
-+-------+--------------------------------------------------------------+
-| Int   | The intended role of the lab in supporting creative          |
-| ended | activities: Search, synthesis, creation, prototyping or      |
-| Cre   | evaluation.                                                  |
-| ative |                                                              |
-| Activ |                                                              |
-| ities |                                                              |
-+-------+--------------------------------------------------------------+
-| Users | The intended users of the space: from occasional test users  |
-| and   | or students through to dedicated environments for co-located |
-| fa    | project teams. The degree of dedicated facilitation that the |
-| cilit | lab is intended to provide for the activities performed      |
-| ators | in/by the lab.                                               |
-+-------+--------------------------------------------------------------+
-| Avai  | The availability of physical, financial, human and technical |
-| lable | resources.                                                   |
-| reso  |                                                              |
-| urces |                                                              |
-| &     |                                                              |
-| c     |                                                              |
-| onstr |                                                              |
-| aints |                                                              |
-+-------+--------------------------------------------------------------+
-| Int   | The type of "events" that are expected to be held in the     |
-| ended | space, ranging from one-off meetings, marathons, conferences |
-| e     | or project work                                              |
-| vents |                                                              |
-+-------+--------------------------------------------------------------+
++---------------------------------+--------------------------------------------------------------+
+| Criteria                        | Description                                                  |
++=================================+==============================================================+
+| Int ended Innovation Processes  | The intended role of the lab in supporting innovation        |
+|                                 | processes: Opportunity Identification, Concept Creation,     |
+|                                 | Concept Validation, Solution Development, Solution           |
+|                                 | Deployment                                                   |
++---------------------------------+--------------------------------------------------------------+
+| Int ended Creative Activities   | The intended role of the lab in supporting creative          |
+|                                 | activities: Search, synthesis, creation, prototyping or      |
+|                                 | evaluation.                                                  |
++---------------------------------+--------------------------------------------------------------+
+| Users and facilitators          | The intended users of the space: from occasional test users  |
+|                                 | or students through to dedicated environments for co-located |
+|                                 | project teams. The degree of dedicated facilitation that the |
+|                                 | lab is intended to provide for the activities performed      |
+|                                 | in/by the lab.                                               |
++---------------------------------+--------------------------------------------------------------+
+| Available resources &           | The availability of physical, financial, human and technical |
+| constraints                     | resources.                                                   |
++---------------------------------+--------------------------------------------------------------+
+| Intended events                 | The type of "events" that are expected to be held in the     |
+|                                 | space, ranging from one-off meetings, marathons, conferences |
+|                                 | or project work                                              |
++---------------------------------+--------------------------------------------------------------+
 
 : Process of Creation - Guiding set of criteria for Innovation Labs
 
