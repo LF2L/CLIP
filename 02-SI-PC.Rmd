@@ -49,6 +49,17 @@ to be completed during the course of the sprint:
 5.  And finally, **complementary readings** are suggested for those who
     would like to further explore the topics addressed in this sprint.
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The **full recording of the sprint 2 opening session** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/wA3f6Hfufzg")
+```
+
+
 ------------------------------------------------------------------------
 
 ## Conceptual Videos
@@ -68,8 +79,7 @@ labs or spaces to become vacuous spaces or merely innovation theaters
 with a superficial purpose.
 
 Some of the commonly aspects to consider at the moment of defining the
-strategic intent of an innovation lab are [@osorio2019; @Moultrie2007b]
-:
+strategic intent of an innovation lab are [@osorio2019; @Moultrie2007b]:
 
 +----------------------+-----------------------------------------------+
 | Criteria             | Description                                   |
@@ -220,8 +230,8 @@ knitr::include_url("https://www.youtube.com/embed/RjpWkAdDYaY")
 
 The Pontifícia Universidade Católica do Rio Grande do Sul presents us
 with a case of success in social innovation and climate change. Lucas
-Bonacina Roldan shows the PUCRS Service Learning Program that works to
-promote entrepreneurship and social innovation.
+Bonacina Roldan shows the PUCRS Service Learning Program oriented to
+promote entrepreneurship and social innovation in Brazil.
 
 ### Universidad del Quindío -- Lina Marcela León & Faber Giraldo
 
@@ -229,9 +239,7 @@ promote entrepreneurship and social innovation.
 knitr::include_url("https://www.youtube.com/embed/1HCM5wXORo0")
 ```
 
-The Universidad del Quindío presents a case of success in mitigation and
-adaptation to climate change. Professors Faber Giraldo Velásquez and
-Lina Marcela León Gallón, researchers of the project, accompany us.
+Professors Faber Giraldo Velásquez and Lina Marcela León Gallón from Universidad del Quindío share their research experience on the impact of climate change on the beekeeping sector in the Quindio region in Colombia.
 
 ------------------------------------------------------------------------
 
