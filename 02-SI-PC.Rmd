@@ -35,8 +35,8 @@ to be completed during the course of the sprint:
 
 2.  Secondly, **three conceptual videos** are proposed to open the
     discussion on the importance of defining a strategic intent for your
-    Climate Lab and, further, to develop your own social design process
-    as the methodological framework for your Climate Lab.
+    Climate Lab and, further, to develop your own social innovation
+    process as the methodological framework for your Climate Lab.
 
 3.  Thirdly, **two case experiences** from members of the consortium are
     shared. This way we can learn a little more about the experience of
@@ -52,13 +52,13 @@ to be completed during the course of the sprint:
 ::: {.infobox .tip data-latex="{.assignment}"}
 **NOTICE!**
 
-The **full recording of the sprint 2 opening session** can be watched below.
+The **full recording of the sprint 2 opening session** can be watched
+below.
 :::
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/wA3f6Hfufzg")
 ```
-
 
 ------------------------------------------------------------------------
 
@@ -239,7 +239,10 @@ promote entrepreneurship and social innovation in Brazil.
 knitr::include_url("https://www.youtube.com/embed/1HCM5wXORo0")
 ```
 
-Professors Faber Giraldo Velásquez and Lina Marcela León Gallón from Universidad del Quindío share their research experience on the impact of climate change on the beekeeping sector in the Quindio region in Colombia.
+Professors Faber Giraldo Velásquez and Lina Marcela León Gallón from
+Universidad del Quindío share their research experience on the impact of
+climate change on the beekeeping sector in the Quindio region in
+Colombia.
 
 ------------------------------------------------------------------------
 
