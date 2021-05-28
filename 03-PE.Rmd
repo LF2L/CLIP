@@ -8,6 +8,11 @@ editor_options:
 
 ## Sprint Opening
 
+
+```{r}
+knitr::include_graphics('Figures/CLIP-global-03.jpg')
+```
+
 Welcome to the third sprint of the CLIP. In this sprint we are going to
 focus on the **Physical Embodiment** of the Climate Labs.
 

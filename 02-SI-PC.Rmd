@@ -8,6 +8,12 @@ editor_options:
 
 ## Sprint Opening
 
+
+```{r}
+knitr::include_graphics('Figures/CLIP-global-02.jpg')
+```
+
+
 Welcome to the second sprint of the CLIP. In this sprint we are going to
 focus on the **Strategic Intent & Process of Creation** for the Climate
 Labs.
@@ -35,8 +41,8 @@ to be completed during the course of the sprint:
 
 2.  Secondly, **three conceptual videos** are proposed to open the
     discussion on the importance of defining a strategic intent for your
-    Climate Lab and, further, to develop your own social innovation
-    process as the methodological framework for your Climate Lab.
+    Climate Lab and, further, to develop your own social design process
+    as the methodological framework for your Climate Lab.
 
 3.  Thirdly, **two case experiences** from members of the consortium are
     shared. This way we can learn a little more about the experience of
@@ -48,17 +54,6 @@ to be completed during the course of the sprint:
 
 5.  And finally, **complementary readings** are suggested for those who
     would like to further explore the topics addressed in this sprint.
-
-::: {.infobox .tip data-latex="{.assignment}"}
-**NOTICE!**
-
-The **full recording of the sprint 2 opening session** can be watched
-below.
-:::
-
-```{r}
-knitr::include_url("https://www.youtube.com/embed/wA3f6Hfufzg")
-```
 
 ------------------------------------------------------------------------
 
@@ -79,7 +74,8 @@ labs or spaces to become vacuous spaces or merely innovation theaters
 with a superficial purpose.
 
 Some of the commonly aspects to consider at the moment of defining the
-strategic intent of an innovation lab are [@osorio2019; @Moultrie2007b]:
+strategic intent of an innovation lab are [@osorio2019; @Moultrie2007b]
+:
 
 +----------------------+-----------------------------------------------+
 | Criteria             | Description                                   |
@@ -230,8 +226,8 @@ knitr::include_url("https://www.youtube.com/embed/RjpWkAdDYaY")
 
 The Pontifícia Universidade Católica do Rio Grande do Sul presents us
 with a case of success in social innovation and climate change. Lucas
-Bonacina Roldan shows the PUCRS Service Learning Program oriented to
-promote entrepreneurship and social innovation in Brazil.
+Bonacina Roldan shows the PUCRS Service Learning Program that works to
+promote entrepreneurship and social innovation.
 
 ### Universidad del Quindío -- Lina Marcela León & Faber Giraldo
 
@@ -239,10 +235,9 @@ promote entrepreneurship and social innovation in Brazil.
 knitr::include_url("https://www.youtube.com/embed/1HCM5wXORo0")
 ```
 
-Professors Faber Giraldo Velásquez and Lina Marcela León Gallón from
-Universidad del Quindío share their research experience on the impact of
-climate change on the beekeeping sector in the Quindio region in
-Colombia.
+The Universidad del Quindío presents a case of success in mitigation and
+adaptation to climate change. Professors Faber Giraldo Velásquez and
+Lina Marcela León Gallón, researchers of the project, accompany us.
 
 ------------------------------------------------------------------------
 
@@ -266,7 +261,7 @@ for Sprint II:
 -   Universidad de Manizales: [Workshop
     2](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619705420379/7d1a6aea4fd21d2f48704a0bde13bb2a9e80ea6f) -
     [Workshop
-    3](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619711420824/0744d740ddc38cd0d249537380d33494afe905a2)
+    3](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675702123/dc11760127e13af1e59a5575681bda5cfe633597)
 
 -   Universidad Tecnológica de Pereira: [Workshop
     2](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619705576971/33775405ca91ae9a6b47b957e4f096ee68de433e) -
@@ -300,7 +295,7 @@ for Sprint II:
 -   Pontifícia Universidade Católica Do Paraná: [Workshop
     2](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619705272114/02b41f72cb8d7f09248892687d502d168d8d88b0) -
     [Workshop
-    3](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619711378619/1e5eb619b110cfef182cd0aa7ffb49f3b03e8b5e)
+    3](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1616675588772/acac787fc9e21dc3995a307aff1cc2572f1422de)
 
 -   Universidade Católica de Pernambuco: [Workshop
     2](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1619705446293/818a027141995bf57c4c53e7035f03fab31afde7) -
