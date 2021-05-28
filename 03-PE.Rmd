@@ -14,15 +14,15 @@ focus on the **Physical Embodiment** of the Climate Labs.
 ::: {.infobox .goal data-latex="{.goal}"}
 **GOAL**
 
-The goal for the sprint 3 is:
+The goal of the sprint 3 is:
 
-> Translate the Climate Lab's vision into a **technological resource
+> To translate the Climate Lab's vision into a **technological resource
 > roadmap**
 >
 > *Sprint dates: **From May 28 to July 1 / 2021***
 :::
 
-A webinar will be held on **May 27** to officially launch the Sprint
+A webinar will be held on **May 28** to officially launch the Sprint
 III. It will be a synchronous session, so all CLT are expected to
 attend. As usual, a series of content and activities are proposed to the
 CLT to be completed during the course of the sprint:
@@ -118,7 +118,7 @@ concept of Management of Technological Resources as a means to identify
 the critical assets, capabilities and infrastructure for the
 sustainability of the Climate Labs. This prospective approach is
 instrumental in rapidly changing environments with a great deal of
-uncertainty.
+uncertainty. To know more about this approach you can have a look to the paper [@Boly2018; @Marche2017].
 
 The Spanish version of this video can be accessed
 [here](https://youtu.be/fwIT1j5CcqQ).
@@ -185,47 +185,47 @@ Sprint III:
 ## Colombia {.unnumbered}
 
 -   Universidad de Caldas: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129003173/1f5dcf74fee58c4f142239b7031a6837d32b4de4?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Universidad del Quindio: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129080275/5ce7acbe40a2c1ef4262ba8a8daf399af9de3651?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Universidad de Manizales: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129031612/e21fc03d671f2fa15423ace284a1f0d7e2884b56?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Universidad Tecnológica de Pereira: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129090631/ca119901854733fae0c6ba331b93ba4e96ad480e?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Corporacion Universitaria Minuto de Dios: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129064729/18ee47f2deb4105574090e30c3aa35b7ff014887?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 ## Mexico {.unnumbered}
 
 -   Instituto Tecnológico y Estudios Superiores de Monterrey: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622127710168/98c6c2e2dfe6088a5057d31846af32935cc52bd1?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Universidad de Guadalajara: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129016833/0139920c7c5cd7d75866efc2e6d1d989bcfe5342?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 ## Brazil {.unnumbered}
 
 -   Pontifícia Universidade Católica do Rio Grande do Sul: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622128511508/75a0c49b00856046ebb805404613d73a7ee72e77?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Pontifícia Universidade Católica Do Paraná: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622128398832/df1b33fe852c991dba55e400f444bf216ff408b8?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 -   Universidade Católica de Pernambuco: [Workshop
-    4]() -
+    4](https://app.mural.co/t/climatelabs8815/m/climatelabs8815/1622129050815/3a294c99c347df2419ceb1e84c04623709fd5553?sender=u28f60cfd9c32927225640992) -
     [Bonus]()
 
 ## Let us know your comments
