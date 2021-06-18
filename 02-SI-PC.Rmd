@@ -3,7 +3,7 @@
 ## Sprint Opening
 
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_graphics('Figures/CLIP-global-02.jpg')
 ```
 
@@ -55,7 +55,7 @@ to be completed during the course of the sprint:
 The **full recording of the webinar** can be watched below.
 :::
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/wA3f6Hfufzg")
 ```
 
@@ -160,7 +160,7 @@ during the process of creation of an innovation lab [@osorio2019;
 
 ### Summary of Results WP2.1 - Carola Calabuig
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/P8cR-CLWBrY")
 ```
 
@@ -172,7 +172,7 @@ recommendations for the CLTs for the remainder of the project.
 
 ### Defining the Strategic Intent of your Climate Lab - Ferney Osorio
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/yXfN-KbMw2c")
 ```
 
@@ -190,7 +190,7 @@ The Spanish version of this video can be accessed
 
 ### Fab Living Lab: A collaborative innovation approach to support creative and sustainable territories - Laurent Dupont
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/z1J8GNgjRo0")
 ```
 
@@ -204,7 +204,7 @@ you can have a look to the paper [@dupont2016].
 
 ### Applying the Fab Living Lab approach in the renovation of the Museum-Aquarium of Nancy - Giovanny Arbelaez
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/EcBMgj0ndEg")
 ```
 
@@ -224,7 +224,7 @@ The Spanish version of this video can be accessed
 
 ### Pontifícia Universidade Católica do Rio Grande do Sul -- Lucas Bonacina Roldan
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/RjpWkAdDYaY")
 ```
 
@@ -235,7 +235,7 @@ promote entrepreneurship and social innovation.
 
 ### Universidad del Quindío -- Lina Marcela León & Faber Giraldo
 
-```{r, echo=FALSE}
+```{r}
 knitr::include_url("https://www.youtube.com/embed/1HCM5wXORo0")
 ```
 
