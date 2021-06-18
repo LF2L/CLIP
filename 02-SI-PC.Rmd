@@ -55,6 +55,16 @@ to be completed during the course of the sprint:
 5.  And finally, **complementary readings** are suggested for those who
     would like to further explore the topics addressed in this sprint.
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The **full recording of the webinar** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/wA3f6Hfufzg")
+```
+
 ------------------------------------------------------------------------
 
 ## Conceptual Videos

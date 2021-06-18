@@ -45,6 +45,16 @@ CLT to be completed during the course of the sprint:
     sprint. The workshop should be completed before the end of the
     sprint (**July 1**).
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The **full recording of the webinar** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/1iFji4RRLUg")
+```
+
 ------------------------------------------------------------------------
 
 ## Conceptual Videos
