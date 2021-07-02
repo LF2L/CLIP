@@ -1,4 +1,4 @@
-# Process of Use and Outcomes {#sprint_4}
+# Process of Use & Outcomes {#sprint_4}
 
 ## Sprint Opening
 
@@ -110,7 +110,7 @@ The purpose of this workshop is for you to round-up the strategic design of your
 
     -   Reflect on the feedback received from your peers and adjust your pitch
 
-    -   A special event is being prepared for the opening of Sprint 5 where all CLT are invited to present their Climate Lab in 3 minutes to the External Committee. Be ready!
+    -   A special event is being prepared for the opening of Sprint 5 ([September 03]{.ul}) where all CLT are invited to present their Climate Lab in 3 minutes to the External Committee. Be ready!
 
 Here we share with you some tips for making an impactful pitch:
 
