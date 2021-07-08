@@ -22,6 +22,16 @@ The opening webinar will be held on **July 02** to launch the Sprint IV. This is
 
 3.  Finally, you will find the link to the **team workshop** of this sprint. The workshop must be completed prior to the tutoring session of this sprint (**August 27**).
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The **full recording of the webinar** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/RD_zJKErJlQ")
+```
+
 ------------------------------------------------------------------------
 
 ## Conceptual Videos
