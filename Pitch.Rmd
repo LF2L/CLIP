@@ -6,17 +6,28 @@ The following table propose the order of the pitchs for Climatelabs and the prop
 
 Remeber that your pitch will be **3 Min** **max!**.
 
++------------------------------------------------------------------+---------------------+
 | Presenting                                                       | Comment from        |
-|------------------------------------------------------------------|---------------------|
++==================================================================+=====================+
 | Universidad de Caldas (UCaldas)                                  | ITESM and UNIMINUTO |
++------------------------------------------------------------------+---------------------+
 | Instituto Tecnológico y Estudios Superiores de Monterrey (ITESM) | UNIMINUTO and UDG   |
++------------------------------------------------------------------+---------------------+
 | Universidad Tecnológica de Pereira (UTP)                         | UDG and UM          |
++------------------------------------------------------------------+---------------------+
 | Universidad de Guadalajara (UDG)                                 | UM and ITESM        |
++------------------------------------------------------------------+---------------------+
 | Universidad del Quindío (UQ)                                     | PUCPR and UCaldas   |
++------------------------------------------------------------------+---------------------+
 | Pontifícia Universidade Católica Do Paraná (PUCPR)               | UQ and PUCRS        |
++------------------------------------------------------------------+---------------------+
 | Universidad de Manizales (UM)                                    | UNICAP and UTP      |
++------------------------------------------------------------------+---------------------+
 | Universidade Católica de Pernambuco (UNICAP)                     | UTP and PUCPR       |
++------------------------------------------------------------------+---------------------+
 | Corporación Universitaria Minuto de Dios (UNIMINUTO)             | PUCRS and UQ        |
-| Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)    | UCaldas and PUCRS   |
++------------------------------------------------------------------+---------------------+
+| Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)    | UCaldas and UNICAP  |
++------------------------------------------------------------------+---------------------+
 
 : Pitch August 27th /2021
