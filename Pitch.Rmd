@@ -1,0 +1,20 @@
+# Presenting your ClimateLab {#pitch}
+
+## Pitch
+
+The following table propose the order of the pitchs for Climatelabs and the proposed Universities that can lead the feedback in the session. The main idea is ta all universities can interact and add their advise.
+
+| Presenting                                                       | Comment from        |
+|------------------------------------------------------------------|---------------------|
+| Universidad de Caldas (UCaldas)                                  | ITESM and UNIMINUTO |
+| Instituto Tecnológico y Estudios Superiores de Monterrey (ITESM) | UNIMINUTO and UDG   |
+| Universidad Tecnológica de Pereira (UTP)                         | UDG and UM          |
+| Universidad de Guadalajara (UDG)                                 | UM and ITESM        |
+| Universidad del Quindío (UQ)                                     | PUCPR and UCaldas   |
+| Pontifícia Universidade Católica Do Paraná (PUCPR)               | UQ and PUCRS        |
+| Universidad de Manizales (UM)                                    | UNICAP and UTP      |
+| Universidade Católica de Pernambuco (UNICAP)                     | UTP and PUCPR       |
+| Corporación Universitaria Minuto de Dios (UNIMINUTO)             | PUCRS and UQ        |
+| Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)    | UCaldas and PUCRS   |
+
+: Pitch August 27
