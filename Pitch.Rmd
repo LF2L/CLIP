@@ -2,7 +2,9 @@
 
 ## Pitch
 
-The following table propose the order of the pitchs for Climatelabs and the proposed Universities that can lead the feedback in the session. The main idea is ta all universities can interact and add their advise.
+The following table propose the order of the pitchs for Climatelabs and the proposed Universities that can lead the feedback in the session. The main idea is that all universities can interact and add their advise.
+
+Remeber that your pitch will be **3 Min** **max!**.
 
 | Presenting                                                       | Comment from        |
 |------------------------------------------------------------------|---------------------|
@@ -17,4 +19,4 @@ The following table propose the order of the pitchs for Climatelabs and the prop
 | Corporación Universitaria Minuto de Dios (UNIMINUTO)             | PUCRS and UQ        |
 | Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)    | UCaldas and PUCRS   |
 
-: Pitch August 27
+: Pitch August 27th /2021
