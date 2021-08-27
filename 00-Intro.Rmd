@@ -66,52 +66,51 @@ To successfully complete the incubation program, the CLT need to: 
 
 # Program Schedule {.unnumbered}
 
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| **Sprint** | Object                                     | **Goal(s)**                                                                 | **Main Focus**                                                                                                   |
-+============+:===========================================+:============================================================================+:=================================================================================================================+
-| I          | **Fundamentals & Principles**              | \- Build the Climate Lab Manifesto                                          | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                                |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 3 weeks                                    |                                                                             | \                                                                                                                |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 09/04/21 to 29/04/21                  |                                                                             | \- Teams focus on defining the CLT purpose                                                                       |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| II         | **Strategic Intent & Process of Creation** | \- Define the Climate Lab's vision and objectives                           | \- The importance of building a collective strategic intent                                                      |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 4 weeks                                    | \                                                                           | \                                                                                                                |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 30/04/21 to 27/05/21                  | \- Design of the social innovation process                                  | | - Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| III        | **Physical Embodiment**                    | \- Translate the Climate Lab's vision into a technological resource roadmap | \- Management of technological resources                                                                         |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 4 weeks                                    |                                                                             | \                                                                                                                |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 28/05/21 to 01/07/21                  |                                                                             | \- Spaces to support social innovation                                                                           |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| IV         | **Process of Use & Outcomes**              | \- Design the business model & local strategy of the Climate Lab            | \- The role of innovation labs in universities and climate change                                                |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 6 weeks (including summer break)           |                                                                             |                                                                                                                  |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 02/07/21 to 19/08/21                  |                                                                             |                                                                                                                  |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| V          | **Assessment & Adaptation**                | \- Assess the Climate Lab performance                                       | \- Practices for a more creative, resilient and enduring operation                                               |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 4 weeks                                    |                                                                             |                                                                                                                  |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 20/08/21 to 23/09/21                  |                                                                             |                                                                                                                  |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
-| VI         | **Pilot Project**                          | \- Set-up of the local Climate Lab pilot project                            | \- Moving from strategic to operational level: applying the living lab approach                                  |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | 3 weeks                                    |                                                                             |                                                                                                                  |
-|            |                                            |                                                                             |                                                                                                                  |
-|            | From 24/09/21 to 15/10/21                  |                                                                             |                                                                                                                  |
-+------------+--------------------------------------------+-----------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| **Sprint** | Object                                     | **Goal(s)**                                                                                                  | **Main Focus**                                                                                                   |
++============+:===========================================+:=============================================================================================================+:=================================================================================================================+
+| I          | **Fundamentals & Principles**              | \- Build the Climate Lab Manifesto                                                                           | \- Set the stage in terms of Climate Change, Social Innovation and Innovation Lab                                |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | 3 weeks                                    |                                                                                                              | \                                                                                                                |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 09/04/21 to 29/04/21                  |                                                                                                              | \- Teams focus on defining the CLT purpose                                                                       |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| II         | **Strategic Intent & Process of Creation** | \- Define the Climate Lab's vision and objectives                                                            | \- The importance of building a collective strategic intent                                                      |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | 4 weeks                                    | \                                                                                                            | \                                                                                                                |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 30/04/21 to 27/05/21                  | \- Design of the social innovation process                                                                   | | - Innovation labs facilitate innovation processes: what is the social innovation process for your Climate Lab? |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| III        | **Physical Embodiment**                    | \- Translate the Climate Lab's vision into a technological resource roadmap                                  | \- Management of technological resources                                                                         |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | 4 weeks                                    |                                                                                                              | \                                                                                                                |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 28/05/21 to 01/07/21                  |                                                                                                              | \- Spaces to support social innovation                                                                           |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| IV         | **Process of Use & Outcomes**              | ~~- Design the business model & local strategy of the Climate Lab~~                                          | \- The role of innovation labs in universities and climate change                                                |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | ~~6~~ 8 weeks (including summer break)     | \- To round out your Climate Lab's strategic design and present your intent to all members of the Consortium |                                                                                                                  |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 02/07/21 to 02/09/21                  |                                                                                                              |                                                                                                                  |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| V          | **Assessment & Adaptation**                | \- Assess the Climate Lab performance                                                                        | \- Practices for a more creative, resilient and enduring operation                                               |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | ~~4~~ 3 weeks                              |                                                                                                              |                                                                                                                  |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 03/09/21 to 23/09/21                  |                                                                                                              |                                                                                                                  |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
+| VI         | **Pilot Project**                          | \- Set-up of the local Climate Lab pilot project                                                             | \- Moving from strategic to operational level: applying the living lab approach                                  |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | 3 weeks                                    |                                                                                                              |                                                                                                                  |
+|            |                                            |                                                                                                              |                                                                                                                  |
+|            | From 24/09/21 to 15/10/21                  |                                                                                                              |                                                                                                                  |
++------------+--------------------------------------------+--------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------+
 
 # CLIP Team {.unnumbered}
 
 ## Work-Package Leaders {.unnumbered}
 
 -   **Université de Lorraine**
-
 
     -   Mauricio Camargo
 
@@ -136,34 +135,24 @@ To successfully complete the incubation program, the CLT need to: 
 :::
 
 ::: {.infobox .goal data-latex="{.goal}"}
- **Álvaro Fernández-Baldor** works at the Center for Development Cooperation of the Polytechnic University of Valencia (UPV - Spain), and is an associate professor in the Department of Engineering Projects of the UPV. He teaches in the Master of Development Cooperation of the UPV. He has done his PhD researching technological projects from the human development and capabilities approach. He also teaches as a guest lecturer in different fields, especially in cooperation masters in the areas related to engineering and development cooperation. He has field experience in Guatemala, Brazil, Peru and Kenya. In 2007 he received the first prize for the best final project in the IV PFC Competition in the field of technology for human development, for a design of an energy supply in an isolated rural area of Guatemala. In 2015 he has been awarded with the Doctoral Thesis Award for Development Cooperation of the Group-9 Universities.
+**Álvaro Fernández-Baldor** works at the Center for Development Cooperation of the Polytechnic University of Valencia (UPV - Spain), and is an associate professor in the Department of Engineering Projects of the UPV. He teaches in the Master of Development Cooperation of the UPV. He has done his PhD researching technological projects from the human development and capabilities approach. He also teaches as a guest lecturer in different fields, especially in cooperation masters in the areas related to engineering and development cooperation. He has field experience in Guatemala, Brazil, Peru and Kenya. In 2007 he received the first prize for the best final project in the IV PFC Competition in the field of technology for human development, for a design of an energy supply in an isolated rural area of Guatemala. In 2015 he has been awarded with the Doctoral Thesis Award for Development Cooperation of the Group-9 Universities.
 :::
-
-
-
 
 -   **Università di Genova**
 
 ::: {.infobox .goal data-latex="{.goal}"}
-Dr.-Ing. **Paola Alfaro d'Alençon** just started in February 2018 as a DFG-Research Fellow associated to the TU-Berlin, Faculty VI, Habitat Unit with the research project for the DFG: Concepts of Co-production and its influence on the development of inclusive spaces – An international comparative study on theories and practices".
-She has 15 years of national and international work experience in research, education, knowledge transfer, and urban management and planning. These experiences are based on the topics of sustainable urban development associated with projects on housing (resilient development through interdisciplinary approaches linked to water management and local production chains, as well as through local solutions); governance, and co-production, with network development and stakeholder, cooperation management on urban and regional development strategies related to subjects of climate change, transport and mobility, and urban resilience.
+Dr.-Ing. **Paola Alfaro d'Alençon** just started in February 2018 as a DFG-Research Fellow associated to the TU-Berlin, Faculty VI, Habitat Unit with the research project for the DFG: Concepts of Co-production and its influence on the development of inclusive spaces -- An international comparative study on theories and practices". She has 15 years of national and international work experience in research, education, knowledge transfer, and urban management and planning. These experiences are based on the topics of sustainable urban development associated with projects on housing (resilient development through interdisciplinary approaches linked to water management and local production chains, as well as through local solutions); governance, and co-production, with network development and stakeholder, cooperation management on urban and regional development strategies related to subjects of climate change, transport and mobility, and urban resilience.
 :::
-
 
 -   **Ashoka**
 
-::: {.infobox .goal data-latex="{.goal}"} 
+::: {.infobox .goal data-latex="{.goal}"}
 **Waldo Soto** is a commercial engineer from the Pontificia Universidad Católica de Chile with a Diploma in Innovation from Babson College, a Diploma in Global Management from University College London, and a MSc in Urban Management from Technical University Berlin. As Director of 2811, Waldo specialises in social innovation and sustainable urban development.
 :::
 
-::: {.infobox .goal data-latex="{.goal}"} 
+::: {.infobox .goal data-latex="{.goal}"}
 **Gabriela Carrasco** is director of 2811 and consultant for Ashoka in Latin America. MPA in Social Innovation and Impact Investment at NYU, Commercial Engineer and Political Scientist at the Catholic University of Chile. Contributing to the solution of the challenges of our region through the articulation of actors and the formation of agents of change.
 :::
-
-
-
-
-
 
 ## Tutorship Groups {.unnumbered}
 
@@ -207,9 +196,9 @@ All tutorship sessions will be held in parallel rooms via Zoom at 16h00 CET - 9:
 
 -   Session 3 - 11/06/2021
 
--   Session 4 - 09/07/2021
+-   Session 4 - ~~09/07/21~~ 27/08/2021
 
--   Session 5 - 03/09/2021
+-   Session 5 - 17/09/2021
 
 -   Session 6 - 08/10/2021
 
