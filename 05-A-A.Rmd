@@ -1,19 +1,77 @@
-# Assessment & Adaptation
+# Assessment & Adaptation {#sprint_5}
 
-## Intro
+## Sprint Opening
 
-Welcome to the Fundamentals and prin
+This is the fifth sprint of the CLIP. Here the attention turns to the **Assessment & Adaptation** of the Climate Labs.
 
->the main goal is ...
+::: {.infobox .goal data-latex="{.goal}"}
+**GOAL**
 
-## Things to do at the end of this Sprint
+The goal of sprint V is:
 
-TAsk to do at the en with your CLT
+> To present your Climate Lab's strategic design in a 3-minute pitch to the members of the External Committee.
+>
+> *Sprint dates: **From September 03 to September 23 / 2021***
+:::
 
+In this sprint the Climate Lab Teams will be focused on adjusting their pitch for the presentation to the External Committee of the Climate Lab Project. This session will be held on **September 10** and all the CLT will have the opportunity to present their strategic design in 3 minutes followed by a feedback exchange. This is a synchronous session, so all CLT are expected to attend. As usual, a series of content and activities are proposed to the CLT to be completed during the course of the sprint:
 
-## Purpose Presentation of this Sprint
+1.  In this opportunity **two conceptual videos** are proposed to shared the experience of two university-hosted innovation lab in Chile and Colombia.
 
-Here the presentation
+2.  Then, the **team workshop** section which this time is dedicated to the pitch presentation and the subsequent refinement and finalization of each Climate Lab's website prototype.
 
+------------------------------------------------------------------------
 
-## References
+## Conceptual Videos
+
+### Background on Assessment & Adaptation
+
+Designing, managing and sustaining a social innovation lab is a challenging task. Many established innovation lab initiatives are future-oriented in terms of being conceived to demonstrate "new ways of doing things". However, what seems futuristic today may become obsolete with the fast pace of socio-technological advances. This means that innovation lab teams will probably have to reinvent themselves by introducing new methods, practices or technologies, as well as reconfiguring their configuration or even redefining their purpose [@rayna2019; @magadley2009; @osorio2020]. This also implies that lab teams need to be aware of developing feedback tools and processes so this continuous reinvention can occur. The methodological framework that guided this incubation program - Strategic Intent, Process of Creation, Physical Embodiment, Process of Use and Outcomes- is proposed as an strategic tool for lab managers and lab teams, not only to define the innovation lab intent, but also to track of what is happening and enable adaptation and strategy redefinition.
+
+[Innovation Lab Framework Outline [@Moultrie2007b; @osorio2019]]{.ul}
+
+![](images/InnoLab%20Framework%20Outline.jpeg)
+
+We encourage you to keep this incubation program in mind not just as a series of one-time tasks, but as an iterative process that you can repeat periodically and collectively to track your lab's progress. This will help engage stakeholders to continue to support your Climate Lab initiative.
+
+### Innovation labs in Universities: The case of the LEIND - Lorena Delgado
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/XS6llbz_cyE")
+```
+
+Lorena Delgado explains the contribution that an innovation lab can make to Latin American universities. She does so by presenting her experience with the Entrepreneurship and Innovation Laboratory -LEIND- at the Universidad de Santiago de Chile. To know more about how the LEIND supports collaborative learning please refer to [@delgado2020].
+
+### Shaping an Innovation Lab through time, space and stakeholders - Ferney Osorio
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/NlEWu_fVEjY")
+```
+
+In this video, Ferney Osorio from Université de Lorriane and Universidad Nacional de Colombia explains the challenges of operating an innovation lab. For this, he presents the case of the ViveLab Bogotá, one of the first public innovation labs in Colombia (today it is called Lab101). The evolution and main outcomes from this initiative are presented using the methodological framework that guided the incubation program. To know more about this case and the theoretical foundations of this work you can refer to [@osorio2020].
+
+------------------------------------------------------------------------
+
+## Team Workshop 6 - Pitch your Climate Lab and Wrap-up of your website prototype!
+
+The purpose of this workshop is for you to round-up the strategic design of your Climate Lab and be ready to communicate your intent to your partners and stakeholders. Therefore, the main task for you during the fifth sprint is to [to refine and present your Climate Lab to the external committee]{.ul}. The following are the main steps that we are going to follow:
+
+1.  **Present your pitch to the Climate Lab External Committee!**
+
+    -   Reflect on the feedback received from your peers and adjust your pitch
+
+    -   A special event is being prepared for ([September 10]{.ul}) where all CLT are invited to present their Climate Lab in 3 minutes to the External Committee. Be ready!
+
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
+The **full recording of the pitch training session (August 27)** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/6PxmDkeWDJU")
+```
+
+2.  **Don't forget to complete your website prototype!**
+
+    -   CLTs are reminded to complete the website prototype based on the results of each of the sprints. Remember that this is a support tool for you to have a clean version of your strategic design and also to communicate your intent and results. As we are entering to the final stage of the incubation program, CLTs are invited to complete their website by the end of this sprint ([September 23]{.ul}).
