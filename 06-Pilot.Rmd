@@ -27,7 +27,7 @@ The **full recording of the webinar** can be watched below.
 :::
 
 ```{r}
-knitr::include_url("https://www.youtube.com/embed/RD_zJKErJlQ")
+knitr::include_url("https://www.youtube.com/embed/pWfVQg1Uw2I")
 ```
 
 ------------------------------------------------------------------------
