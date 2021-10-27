@@ -1,19 +1,51 @@
-# Pilot Project
+# Pilot Project {#sprint_6}
 
-## Intro
+## Sprint Opening
 
-Welcome to the Fundamentals and prin
+This is the last sprint of the CLIP. This sprint is a transition from the incubation program to the implementation of the **Pilot Project** of each Climate Lab.
 
->the main goal is ...
+::: {.infobox .goal data-latex="{.goal}"}
+**GOAL**
 
-## Things to do at the end of this Sprint
+The goal of sprint V is:
 
-TAsk to do at the en with your CLT
+> To set-up the local Climate Lab pilot project moving from the strategic to the operational level.
+>
+> *Sprint dates: **From September 24 to October 15 / 2021***
+:::
 
+In this sprint the Climate Lab Teams will focus their efforts on the set-up of their pilot project. In this case leaders from the Work Package 2.4 join us to provide the introduce the methodology that will guide the pilot project implementation. Specifically for this sprint, the teams are invited to assess their territory and community.
 
-## Purpose Presentation of this Sprint
+1.  For this sprint **the last two conceptual videos** share insights on the application of the living lab approach. This approach/methodology is considered suitable to the pilot projects.
 
-Here the presentation
+2.  Then, the final **team workshop** is proposed by the colleagues from Work Package 2.4 during the opening webinar.
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
 
-## References
+The **full recording of the webinar** can be watched below.
+:::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/RD_zJKErJlQ")
+```
+
+------------------------------------------------------------------------
+
+## Conceptual Videos
+
+### Living Lab approach applied to French forestry policy priorities - Maxence Arnould
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/JvLEtFRjShE")
+```
+
+Maxence Arnould, from the University of Lorraine, shares his experience and insights on the application of the Living Lab approach to increase the commitment of private forest owners in French forest policy priorities. To know more about this case and the theoretical foundations of this work you can refer to [@arnould2021].
+
+### Living Lab approach applied to French forestry policy priorities - Maxence Arnould
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/_Ae-Dguq56s")
+```
+
+Laurent Dupont from Université de Lorraine shares in this video the Linky by Makers project as a new form of collaboration between Makers or FabLabs , Academics and Companies. By Sharing ideas and pooling resources, Linky by Makers sought to prototype citizen solutions for "Smart Grid" deployment. To know more about this project you can have a look to the paper [@dupont2019].

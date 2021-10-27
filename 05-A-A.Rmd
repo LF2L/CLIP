@@ -72,6 +72,12 @@ The **full recording of the pitch training session (August 27)** can be watched 
 knitr::include_url("https://www.youtube.com/embed/6PxmDkeWDJU")
 ```
 
+The **full recording of the pitch session with the External Committee (September 10)** can be watched below. :::
+
+```{r}
+knitr::include_url("https://www.youtube.com/embed/l-exclNp3ow")
+```
+
 2.  **Don't forget to complete your website prototype!**
 
     -   CLTs are reminded to complete the website prototype based on the results of each of the sprints. Remember that this is a support tool for you to have a clean version of your strategic design and also to communicate your intent and results. As we are entering to the final stage of the incubation program, CLTs are invited to complete their website by the end of this sprint ([September 23]{.ul}).
