@@ -42,7 +42,7 @@ knitr::include_url("https://www.youtube.com/embed/JvLEtFRjShE")
 
 Maxence Arnould, from the University of Lorraine, shares his experience and insights on the application of the Living Lab approach to increase the commitment of private forest owners in French forest policy priorities. To know more about this case and the theoretical foundations of this work you can refer to [@arnould2021].
 
-### Living Lab approach applied to French forestry policy priorities - Maxence Arnould
+### The Linky by Makers project: A Fab Living Lab Project - Laurent Dupont
 
 ```{r}
 knitr::include_url("https://www.youtube.com/embed/_Ae-Dguq56s")

@@ -72,6 +72,9 @@ The **full recording of the pitch training session (August 27)** can be watched 
 knitr::include_url("https://www.youtube.com/embed/6PxmDkeWDJU")
 ```
 
+::: {.infobox .tip data-latex="{.assignment}"}
+**NOTICE!**
+
 The **full recording of the pitch session with the External Committee (September 10)** can be watched below. :::
 
 ```{r}
