@@ -28,6 +28,15 @@ The Université de Lorraine and the Pontifícia Universidade Católica do Paran�
 
 ![](images/01-Banner-ClimateLab.png){width="798"}
 
+
+
+
+
+With the Support of:
+
+![](Figures/dhda/dhda-banner.png){width="75%"}
+
+
 ```{r CLIP,}
 #knitr::include_graphics("Figures/CLIP-global-00.jpg")
 ```
