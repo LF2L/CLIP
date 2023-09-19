@@ -34,7 +34,10 @@ The Université de Lorraine and the Pontifícia Universidade Católica do Paran�
 
 With the Support of:
 
-![](Figures/dhda/dhda-banner.png){width="75%"}
+
+[![More details on: https://www.deshommesetdesarbres.org/](Figures/dhda/dhda-banner.png){width="75%"}](https://www.deshommesetdesarbres.org/)
+
+More details on: https://www.deshommesetdesarbres.org/
 
 
 ```{r CLIP,}
